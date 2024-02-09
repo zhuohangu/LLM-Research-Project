@@ -1,0 +1,2516 @@
+{
+    "617798408": {
+        "score": 1.0,
+        "name": "openai.py",
+        "url": "https://github.com/openai/chatgpt-retrieval-plugin",
+        "file_url": "https://github.com/openai/chatgpt-retrieval-plugin/blob/b808c100d8baebe832e3fe433358d12e93bba48f/services/openai.py"
+    },
+    "552661142": {
+        "score": 1.0,
+        "name": "openai-old.ipynb",
+        "url": "https://github.com/langchain-ai/langchain",
+        "file_url": "https://github.com/langchain-ai/langchain/blob/d8913b94287483fc6603c74278f2e793ba90bb70/docs/docs/integrations/adapters/openai-old.ipynb"
+    },
+    "608555244": {
+        "score": 1.0,
+        "name": "openAIWrapper.py",
+        "url": "https://github.com/moymix/TaskMatrix",
+        "file_url": "https://github.com/moymix/TaskMatrix/blob/4b7664f8d3a23804ac1b795d75a73efd162769f0/LowCodeLLM/src/openAIWrapper.py"
+    },
+    "458588993": {
+        "score": 1.0,
+        "name": "README.md",
+        "url": "https://github.com/nebuly-ai/nebuly",
+        "file_url": "https://github.com/nebuly-ai/nebuly/blob/1d2aa61ff5d267596d38486f9118558b152662b2/README.md"
+    },
+    "620936652": {
+        "score": 1.0,
+        "name": "README-DE.md",
+        "url": "https://github.com/xtekky/gpt4free",
+        "file_url": "https://github.com/xtekky/gpt4free/blob/fbfc679d7d36fe5cbc93bcc93cf77dbb08457704/README-DE.md"
+    },
+    "579082810": {
+        "score": 1.0,
+        "name": "prompts-chatgpt.md",
+        "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+        "file_url": "https://github.com/dair-ai/Prompt-Engineering-Guide/blob/ca9f76e13ae9b4eca0a9830f2bc7345074b31c32/guides/prompts-chatgpt.md"
+    },
+    "155220641": {
+        "score": 1.0,
+        "name": "agents.py",
+        "url": "https://github.com/huggingface/transformers",
+        "file_url": "https://github.com/huggingface/transformers/blob/2749e479f30ab13235b0b9b4a6bbcf4c3b29a081/src/transformers/tools/agents.py"
+    },
+    "618276831": {
+        "score": 1.0,
+        "name": "usage.md",
+        "url": "https://github.com/zilliztech/GPTCache",
+        "file_url": "https://github.com/zilliztech/GPTCache/blob/acc20f05400dabdcde451194e9bb73b986747685/docs/usage.md"
+    },
+    "260907244": {
+        "score": 1.0,
+        "name": "gpt.py",
+        "url": "https://github.com/yogeshojha/rengine",
+        "file_url": "https://github.com/yogeshojha/rengine/blob/f362189c9b253fd38c7c17c08e5cfc87aee0bfaf/web/reNgine/gpt.py"
+    },
+    "156157055": {
+        "score": 1.0,
+        "name": "benchmarks.ipynb",
+        "url": "https://github.com/GokuMohandas/Made-With-ML",
+        "file_url": "https://github.com/GokuMohandas/Made-With-ML/blob/66e8e437115029422db1a80ff93c308cfcd82648/notebooks/benchmarks.ipynb"
+    },
+    "622737738": {
+        "score": 1.0,
+        "name": "BabyBeeAGI.py",
+        "url": "https://github.com/yoheinakajima/babyagi",
+        "file_url": "https://github.com/yoheinakajima/babyagi/blob/e1d40c562c6ce6371d910dba0629ab41a39f45eb/classic/BabyBeeAGI.py"
+    },
+    "640161038": {
+        "score": 1.0,
+        "name": "debugger.py",
+        "url": "https://github.com/smol-ai/developer",
+        "file_url": "https://github.com/smol-ai/developer/blob/a6747d1a6ccd983c54a483c4a4fb1fa4bf740e82/v0/debugger.py"
+    },
+    "72640835": {
+        "score": 1.0,
+        "name": "commonapi.py",
+        "url": "https://github.com/liangliangyy/DjangoBlog",
+        "file_url": "https://github.com/liangliangyy/DjangoBlog/blob/20af91890c1102a99b4e062062d87f945c9c08c9/servermanager/api/commonapi.py"
+    },
+    "666612077": {
+        "score": 1.0,
+        "name": "news_article_summary.py",
+        "url": "https://github.com/YiVal/YiVal",
+        "file_url": "https://github.com/YiVal/YiVal/blob/8a456ac949c79991eb6fbaa8932425490c23e614/demo/news_article_summary.py"
+    },
+    "653574784": {
+        "score": 1.0,
+        "name": "openai-proxy.mdx",
+        "url": "https://github.com/sweepai/sweep",
+        "file_url": "https://github.com/sweepai/sweep/blob/35169d7f0988c4ac9cc51e3950c2d8f2a41eab21/docs/pages/blogs/openai-proxy.mdx"
+    },
+    "72685026": {
+        "score": 1.0,
+        "name": "function-calling.md",
+        "url": "https://github.com/MicrosoftDocs/azure-docs",
+        "file_url": "https://github.com/MicrosoftDocs/azure-docs/blob/913c3912d1f229e23348d64e90f4a660b7447276/articles/ai-services/openai/how-to/function-calling.md"
+    },
+    "616751895": {
+        "score": 1.0,
+        "name": "ChatGPT_tools.md",
+        "url": "https://github.com/yzfly/awesome-chatgpt-zh",
+        "file_url": "https://github.com/yzfly/awesome-chatgpt-zh/blob/b09c05878312e3a72c2839150277f505344b3e82/docs/ChatGPT_tools.md"
+    },
+    "612350395": {
+        "score": 1.0,
+        "name": "chat_completion.md",
+        "url": "https://github.com/PrefectHQ/marvin",
+        "file_url": "https://github.com/PrefectHQ/marvin/blob/f786d4fdd163700fe38f456eb8a4c32abcca4c90/docs/utilities%20(old)/chat_completion.md"
+    },
+    "629292062": {
+        "score": 1.0,
+        "name": "api_manager.py",
+        "url": "https://github.com/kaqijiang/Auto-GPT-ZH",
+        "file_url": "https://github.com/kaqijiang/Auto-GPT-ZH/blob/711ac606800a1eb527a1c7b9c26b2754cd857e9c/autogpt/llm/api_manager.py"
+    },
+    "661954287": {
+        "score": 1.0,
+        "name": "gpt_prompt_engineer.ipynb",
+        "url": "https://github.com/mshumer/gpt-prompt-engineer",
+        "file_url": "https://github.com/mshumer/gpt-prompt-engineer/blob/8df974591773dc2b9664357e72c413fffec7c96e/gpt_prompt_engineer.ipynb"
+    },
+    "600544354": {
+        "score": 1.0,
+        "name": "gen_mmlu.py",
+        "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+        "file_url": "https://github.com/AI4Finance-Foundation/FinGPT/blob/3d26e9fb6a07bd099671fd5a62501fab8820a04a/fingpt/FinGPT_MultiAgentsRAG/Evaluation_methods/MMLU/gen_mmlu.py"
+    },
+    "615510678": {
+        "score": 1.0,
+        "name": "openai_model.py",
+        "url": "https://github.com/camel-ai/camel",
+        "file_url": "https://github.com/camel-ai/camel/blob/9c0f5987d7c07e2cd59361b6e3a4583c8cfcc482/camel/models/openai_model.py"
+    },
+    "613731840": {
+        "score": 1.0,
+        "name": "util.py",
+        "url": "https://github.com/RUCAIBox/LLMSurvey",
+        "file_url": "https://github.com/RUCAIBox/LLMSurvey/blob/e92735fe90ce053474abffac10f0d214fbe59518/Experiments/LanguageGeneration/HumanEval/util.py"
+    },
+    "628087446": {
+        "score": 1.0,
+        "name": "openai_.py",
+        "url": "https://github.com/farizrahman4u/loopgpt",
+        "file_url": "https://github.com/farizrahman4u/loopgpt/blob/87f695921b677386083125c1d88da580aef4856f/loopgpt/models/openai_.py"
+    },
+    "468576060": {
+        "score": 1.0,
+        "name": "chat_with_your_own_data.ipynb",
+        "url": "https://github.com/openai/openai-cookbook",
+        "file_url": "https://github.com/openai/openai-cookbook/blob/c1bd61f944d46e3539b4a136e4273df79b1b7eed/examples/azure/archive/chat_with_your_own_data.ipynb"
+    },
+    "655806940": {
+        "score": 1.0,
+        "name": "transcript_enrich_summaries.py",
+        "url": "https://github.com/microsoft/generative-ai-for-beginners",
+        "file_url": "https://github.com/microsoft/generative-ai-for-beginners/blob/a07a56095e4679d482cea3603c24c74749bffed5/08-building-search-applications/scripts/transcript_enrich_summaries.py"
+    },
+    "636922549": {
+        "score": 1.0,
+        "name": "evaluate_responsegen.py",
+        "url": "https://github.com/OpenBMB/AgentVerse",
+        "file_url": "https://github.com/OpenBMB/AgentVerse/blob/4c16c4210f82b8507d0d572f74c19acd132be6c5/scripts/evaluate_responsegen.py"
+    },
+    "607013954": {
+        "score": 1.0,
+        "name": "chatgpt.py",
+        "url": "https://github.com/GreyDGL/PentestGPT",
+        "file_url": "https://github.com/GreyDGL/PentestGPT/blob/5ba699e7e90b1445fe07dd5e8cd00bf94c9ff59f/pentestgpt/utils/chatgpt.py"
+    },
+    "269769023": {
+        "score": 1.0,
+        "name": "chatgpt.py",
+        "url": "https://github.com/nidhaloff/deep-translator",
+        "file_url": "https://github.com/nidhaloff/deep-translator/blob/fa67ada6c5d17617628fb13447de5457a5158dc6/deep_translator/chatgpt.py"
+    },
+    "692785022": {
+        "score": 1.0,
+        "name": "chatgpt_llm.py",
+        "url": "https://github.com/ProjectUnifree/unifree",
+        "file_url": "https://github.com/ProjectUnifree/unifree/blob/dc9aa70d77892a6832cab8cc695e69da612db93a/unifree/llms/chatgpt_llm.py"
+    },
+    "622130557": {
+        "score": 1.0,
+        "name": "ai_functions.py",
+        "url": "https://github.com/Torantulino/AI-Functions",
+        "file_url": "https://github.com/Torantulino/AI-Functions/blob/95624d5836149641b2710286c6f40eeb5f431ef2/ai_functions.py"
+    },
+    "577753426": {
+        "score": 1.0,
+        "name": "PvsNP_31to36.ipynb",
+        "url": "https://github.com/microsoft/LMOps",
+        "file_url": "https://github.com/microsoft/LMOps/blob/e12e572665c8deb6b4ac3d452ea8a68fb0af0ffa/LLM4Science/PvsNP_31to36.ipynb"
+    },
+    "612382241": {
+        "score": 1.0,
+        "name": "run_mmlu_gpt_3.5_turbo.py",
+        "url": "https://github.com/FranxYao/chain-of-thought-hub",
+        "file_url": "https://github.com/FranxYao/chain-of-thought-hub/blob/461e2d551f3f12d54caee75fa1e915fdbc3e9d12/MMLU/run_mmlu_gpt_3.5_turbo.py"
+    },
+    "346124279": {
+        "score": 1.0,
+        "name": "gen-qa-openai.ipynb",
+        "url": "https://github.com/pinecone-io/examples",
+        "file_url": "https://github.com/pinecone-io/examples/blob/580de38897b91c58368db76618f44b515aee4a6f/docs/gen-qa-openai.ipynb"
+    },
+    "599687030": {
+        "score": 1.0,
+        "name": "chatgpt_model.py",
+        "url": "https://github.com/zhayujie/bot-on-anything",
+        "file_url": "https://github.com/zhayujie/bot-on-anything/blob/38c256d7a2487cf9b60d86e5649b8eb8da87dc0d/model/openai/chatgpt_model.py"
+    },
+    "488684164": {
+        "score": 1.0,
+        "name": "gpt.md",
+        "url": "https://github.com/pachterlab/gget",
+        "file_url": "https://github.com/pachterlab/gget/blob/b2a5aeb328d33e4c7a05f3bc9484b1f258e6fe66/docs/src/es/gpt.md"
+    },
+    "641743369": {
+        "score": 1.0,
+        "name": "LLMNode.py",
+        "url": "https://github.com/billxbf/ReWOO",
+        "file_url": "https://github.com/billxbf/ReWOO/blob/9cd0283043ff4be0c9d614fda2789d143ca6ffd1/nodes/LLMNode.py"
+    },
+    "617068219": {
+        "score": 1.0,
+        "name": "alpacaModifier.py",
+        "url": "https://github.com/gururise/AlpacaDataCleaned",
+        "file_url": "https://github.com/gururise/AlpacaDataCleaned/blob/791174f63efa9aa54ca6c38639dc6e5bb5657d80/alpacaModifier.py"
+    },
+    "639558345": {
+        "score": 1.0,
+        "name": "openai_api.ipynb",
+        "url": "https://github.com/dsdanielpark/Bard-API",
+        "file_url": "https://github.com/dsdanielpark/Bard-API/blob/bba3c057114942ae5eb6560ed66fa7ad7f34b754/scripts/openai_api.ipynb"
+    },
+    "574289156": {
+        "score": 1.0,
+        "name": "server.py",
+        "url": "https://github.com/cesarhuret/docGPT",
+        "file_url": "https://github.com/cesarhuret/docGPT/blob/d2294c1f6edd936fc9af8ed119afda57d342ea69/server/server.py"
+    },
+    "627059657": {
+        "score": 1.0,
+        "name": "gpt_model.py",
+        "url": "https://github.com/showlab/Image2Paragraph",
+        "file_url": "https://github.com/showlab/Image2Paragraph/blob/a24210a6dd4535a1a43af7a6170fb8ad1e3a6013/models/gpt_model.py"
+    },
+    "614388385": {
+        "score": 1.0,
+        "name": "demo_da_vinci.py",
+        "url": "https://github.com/gia-guar/JARVIS-ChatGPT",
+        "file_url": "https://github.com/gia-guar/JARVIS-ChatGPT/blob/9aca1c05163126f99a4a827ba0af72378d750b47/demos/demo_da_vinci.py"
+    },
+    "614854112": {
+        "score": 1.0,
+        "name": "0A_PromptEngg.ipynb",
+        "url": "https://github.com/akshata29/entaoai",
+        "file_url": "https://github.com/akshata29/entaoai/blob/cf2b268ed40dd0bceea8f098123db624869b6580/Workshop/0A_PromptEngg.ipynb"
+    },
+    "615702252": {
+        "score": 1.0,
+        "name": "chatgpt.mdx",
+        "url": "https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese",
+        "file_url": "https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese/blob/2afb85014edf8a479a6ad677b99b143a59f6d643/pages/models/chatgpt.mdx"
+    },
+    "665731032": {
+        "score": 1.0,
+        "name": "llm.py",
+        "url": "https://github.com/psychic-api/rag-stack",
+        "file_url": "https://github.com/psychic-api/rag-stack/blob/265d938c67302b2ff35de3f9aed7dab3fc1a36f6/server/llm/llm.py"
+    },
+    "637253688": {
+        "score": 1.0,
+        "name": "models.py",
+        "url": "https://github.com/pgalko/BambooAI",
+        "file_url": "https://github.com/pgalko/BambooAI/blob/1d5300936aac2cfde0d35e1bc016a5e1d232b5be/bambooai/models.py"
+    },
+    "673039414": {
+        "score": 1.0,
+        "name": "prompts.py",
+        "url": "https://github.com/modal-labs/devlooper",
+        "file_url": "https://github.com/modal-labs/devlooper/blob/4140c87fc29ee16b09300846e371ba6584a8c092/src/prompts.py"
+    },
+    "671269505": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/BerriAI/litellm",
+        "file_url": "https://github.com/BerriAI/litellm/blob/95bf684a8c171132a156668191d1e961f2525c1f/litellm/deprecated_litellm_server/main.py"
+    },
+    "352101248": {
+        "score": 1.0,
+        "name": "ask.py",
+        "url": "https://github.com/zenustech/zeno",
+        "file_url": "https://github.com/zenustech/zeno/blob/af4e1774398fa254f3f8a957d2549803c236b24f/projects/ChatZeno/ask.py"
+    },
+    "655957425": {
+        "score": 1.0,
+        "name": "Model.py",
+        "url": "https://github.com/BerriAI/reliableGPT",
+        "file_url": "https://github.com/BerriAI/reliableGPT/blob/d66db95a99467ab319c91132d3c724105231c8f0/reliablegpt/Model.py"
+    },
+    "668132464": {
+        "score": 1.0,
+        "name": "OPENAI.md",
+        "url": "https://github.com/weaigc/bingo",
+        "file_url": "https://github.com/weaigc/bingo/blob/eaebba306d5f68b940e4486ad81897516d0db0f3/OPENAI.md"
+    },
+    "1559222": {
+        "score": 1.0,
+        "name": "index.html",
+        "url": "https://github.com/netkiller/netkiller.github.io",
+        "file_url": "https://github.com/netkiller/netkiller.github.io/blob/f3d59ec1e248b36e070a4bb2a2201822796e94d3/python/ai/OpenAI/index.html"
+    },
+    "626670117": {
+        "score": 1.0,
+        "name": "agent.py",
+        "url": "https://github.com/seanpixel/Teenage-AGI",
+        "file_url": "https://github.com/seanpixel/Teenage-AGI/blob/e463e6e1527c2b0286ade0461586fb3ed287ef4b/agent.py"
+    },
+    "610221815": {
+        "score": 1.0,
+        "name": "process-article.py",
+        "url": "https://github.com/postor/chatpdf-minimal-demo",
+        "file_url": "https://github.com/postor/chatpdf-minimal-demo/blob/5d1746553832721fa6fd96fe234ef3fd090cd413/py/process-article.py"
+    },
+    "657895120": {
+        "score": 1.0,
+        "name": "README.md",
+        "url": "https://github.com/THUDM/ChatGLM2-6B",
+        "file_url": "https://github.com/THUDM/ChatGLM2-6B/blob/921d7e9adc69020a19169d1ba4f76c2675a2dd29/README.md"
+    },
+    "669055343": {
+        "score": 1.0,
+        "name": "eval_mmvet.py",
+        "url": "https://github.com/Alpha-VLLM/LLaMA2-Accessory",
+        "file_url": "https://github.com/Alpha-VLLM/LLaMA2-Accessory/blob/58f5ba562ea7aa4cf7be2f46abdb52be75eacb86/light-eval/src/eval_mmvet.py"
+    },
+    "639835356": {
+        "score": 1.0,
+        "name": "llm.py",
+        "url": "https://github.com/assafelovic/gpt-researcher",
+        "file_url": "https://github.com/assafelovic/gpt-researcher/blob/22c27c399148d7851cd42b6e009b7c6c477128ea/gpt_researcher/utils/llm.py"
+    },
+    "594609262": {
+        "score": 1.0,
+        "name": "0-2-migration.md",
+        "url": "https://github.com/guardrails-ai/guardrails",
+        "file_url": "https://github.com/guardrails-ai/guardrails/blob/f47130ea89714aeb864b57077be2b825caf3107f/docs/migration_guides/0-2-migration.md"
+    },
+    "105065494": {
+        "score": 1.0,
+        "name": "assistant.py",
+        "url": "https://github.com/adafruit/Adafruit_Learning_System_Guides",
+        "file_url": "https://github.com/adafruit/Adafruit_Learning_System_Guides/blob/ae08e5704c21e44f47b169d987445f463e0bb134/ChatGPT_Bear/assistant.py"
+    },
+    "610154193": {
+        "score": 1.0,
+        "name": "model_interface.py",
+        "url": "https://github.com/talkingwallace/ChatGPT-Paper-Reader",
+        "file_url": "https://github.com/talkingwallace/ChatGPT-Paper-Reader/blob/937bb4e878da96ce457d62c33cc61a7c3b5c9e48/gpt_reader/model_interface.py"
+    },
+    "124822342": {
+        "score": 1.0,
+        "name": "parallel_gpt.py",
+        "url": "https://github.com/mesolitica/malaya",
+        "file_url": "https://github.com/mesolitica/malaya/blob/972a9baab7fbaea4382d6f55f3ebb9364492c1a6/misc/normalize-twitter/parallel_gpt.py"
+    },
+    "384520418": {
+        "score": 1.0,
+        "name": "translate.py",
+        "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+        "file_url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/blob/ebbde85b85ccdd1c4e1df44e7956338e2ff591ba/tools/AutoLocalization/src/auto_localization/translate.py"
+    },
+    "343068907": {
+        "score": 1.0,
+        "name": "explainer.py",
+        "url": "https://github.com/ArjanCodes/examples",
+        "file_url": "https://github.com/ArjanCodes/examples/blob/b8b7beeb4ae4b6a5834d5426395d5de9af748246/2023/openai/explainer.py"
+    },
+    "577429312": {
+        "score": 1.0,
+        "name": "openai_models.py",
+        "url": "https://github.com/promptslab/Promptify",
+        "file_url": "https://github.com/promptslab/Promptify/blob/27a53fa8e8f2a4d90f887d06ece65a44466f873a/promptify/models/text2text/api/openai_models.py"
+    },
+    "672299399": {
+        "score": 1.0,
+        "name": "index.md",
+        "url": "https://github.com/philschmid/easyllm",
+        "file_url": "https://github.com/philschmid/easyllm/blob/1f37a9307d68545f41639f392a301baadda7188a/docs/index.md"
+    },
+    "647531163": {
+        "score": 1.0,
+        "name": "utils.py",
+        "url": "https://github.com/LC1332/Chat-Haruhi-Suzumiya",
+        "file_url": "https://github.com/LC1332/Chat-Haruhi-Suzumiya/blob/f6ce16dad8fc5e356fd9f86c02f9d6095ab1261d/research/personality/code/utils.py"
+    },
+    "314197645": {
+        "score": 1.0,
+        "name": "open_ai_failure_hook.py",
+        "url": "https://github.com/zenml-io/zenml",
+        "file_url": "https://github.com/zenml-io/zenml/blob/fc6f665bcab3a9882ac577cda5bddf6f5dded9cd/src/zenml/integrations/openai/hooks/open_ai_failure_hook.py"
+    },
+    "355543219": {
+        "score": 1.0,
+        "name": "answer_by_chatgpt.py",
+        "url": "https://github.com/shibing624/textgen",
+        "file_url": "https://github.com/shibing624/textgen/blob/1a8aa3f8427130a7e79207bcaaa243fad78abf7f/scripts/answer_by_chatgpt.py"
+    },
+    "606164768": {
+        "score": 1.0,
+        "name": "chat_gpt_agent.py",
+        "url": "https://github.com/vocodedev/vocode-python",
+        "file_url": "https://github.com/vocodedev/vocode-python/blob/6f7e9cd90710c3cc7f927de4315b6e97906e318d/vocode/streaming/agent/chat_gpt_agent.py"
+    },
+    "541147441": {
+        "score": 1.0,
+        "name": "func_chatgpt.py",
+        "url": "https://github.com/lich0821/WeChatRobot",
+        "file_url": "https://github.com/lich0821/WeChatRobot/blob/c4fcb710d66079337035d31d96b0e432d8a9156e/base/func_chatgpt.py"
+    },
+    "321426168": {
+        "score": 1.0,
+        "name": "openai.md",
+        "url": "https://github.com/neuralmagic/deepsparse",
+        "file_url": "https://github.com/neuralmagic/deepsparse/blob/de64fe5f0d93b1d036a37c6cee22dcaff13663d9/src/deepsparse/server/openai.md"
+    },
+    "677446846": {
+        "score": 1.0,
+        "name": "chat.py",
+        "url": "https://github.com/CL-lau/SQL-GPT",
+        "file_url": "https://github.com/CL-lau/SQL-GPT/blob/7a780c2b61a90dd4bd53a0f6eb7c50650bfde4b2/gpt/chat.py"
+    },
+    "613680226": {
+        "score": 1.0,
+        "name": "08_edit_and_moderation.ipynb",
+        "url": "https://github.com/xuwenhao/geektime-ai-course",
+        "file_url": "https://github.com/xuwenhao/geektime-ai-course/blob/6825e05da76e1d435d66a7d96f02ef55ad1bfd7a/08_edit_and_moderation.ipynb"
+    },
+    "627562630": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/Doriandarko/BabyAGIChatGPT",
+        "file_url": "https://github.com/Doriandarko/BabyAGIChatGPT/blob/174491cbbc09d3f6ef0ec511e9e3b94e2615ffa0/main.py"
+    },
+    "592096917": {
+        "score": 1.0,
+        "name": "backends.py",
+        "url": "https://github.com/dylanjcastillo/shell-genie",
+        "file_url": "https://github.com/dylanjcastillo/shell-genie/blob/c9991375fa72c7528b1176a25b139abebaf00150/shell_genie/backends.py"
+    },
+    "617325145": {
+        "score": 1.0,
+        "name": "model.py",
+        "url": "https://github.com/noahshinn/reflexion",
+        "file_url": "https://github.com/noahshinn/reflexion/blob/d15acda1c81d464d9a81648d7f29fb951e326c70/programming_runs/generators/model.py"
+    },
+    "584900740": {
+        "score": 1.0,
+        "name": "book.py",
+        "url": "https://github.com/mikavehns/BookGPT",
+        "file_url": "https://github.com/mikavehns/BookGPT/blob/9224146c770ca2af279de3ff81b4c9c26e1feb6f/src/book.py"
+    },
+    "470363484": {
+        "score": 1.0,
+        "name": "openai_utils.py",
+        "url": "https://github.com/Azure/azureml-assets",
+        "file_url": "https://github.com/Azure/azureml-assets/blob/4cf27d97d30949f74591e62b16bc5f425a46f626/assets/training/distillation/src/data_distillation/openai_utils.py"
+    },
+    "422274596": {
+        "score": 1.0,
+        "name": "gpt_judge.py",
+        "url": "https://github.com/hpcaitech/ColossalAI",
+        "file_url": "https://github.com/hpcaitech/ColossalAI/blob/adae123df3badfb15d044bd416f0cf29f250bc86/applications/ColossalEval/colossal_eval/evaluate/dataset_evaluator/gpt_judge.py"
+    },
+    "676834494": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/RobustNLP/CipherChat",
+        "file_url": "https://github.com/RobustNLP/CipherChat/blob/1e998348f704b9cc240a7b5b8cf441ea8af1a1eb/main.py"
+    },
+    "691989045": {
+        "score": 1.0,
+        "name": "ai.py",
+        "url": "https://github.com/daveshap/ACE_Framework",
+        "file_url": "https://github.com/daveshap/ACE_Framework/blob/c6693ee2ff547d63675f938a3714165050fd0126/CORE_DEMOS/iACEui/src/ace/app/base/ai.py"
+    },
+    "750199720": {
+        "score": 1.0,
+        "name": "openai-old.ipynb",
+        "url": "https://github.com/abdulrahman305/Langchain_gcp",
+        "file_url": "https://github.com/abdulrahman305/Langchain_gcp/blob/00b1f98c6c573589278e4aafe38f018b480694a5/docs/docs/integrations/adapters/openai-old.ipynb"
+    },
+    "752078887": {
+        "score": 1.0,
+        "name": "prompts-chatgpt.md",
+        "url": "https://github.com/Superdev0909/Prompt-Engineering-Guide-main",
+        "file_url": "https://github.com/Superdev0909/Prompt-Engineering-Guide-main/blob/e2c30e1f2f4a1d8fda7ddc28c836e645aa238d5a/guides/prompts-chatgpt.md"
+    },
+    "718351868": {
+        "score": 1.0,
+        "name": "prompts-chatgpt.md",
+        "url": "https://github.com/contactraj-sharma/Prompt-Engineering-Good-and-Bad",
+        "file_url": "https://github.com/contactraj-sharma/Prompt-Engineering-Good-and-Bad/blob/9a0c0850df5ea770b56cef35d535b4ecab5f48de/guides/prompts-chatgpt.md"
+    },
+    "740585961": {
+        "score": 1.0,
+        "name": "prompts-chatgpt.md",
+        "url": "https://github.com/imflash217/flash_guide",
+        "file_url": "https://github.com/imflash217/flash_guide/blob/abe0e7a1df7d0f7e8924bd4be94a05c6eb74e813/guides/prompts-chatgpt.md"
+    },
+    "750973875": {
+        "score": 1.0,
+        "name": "agents.py",
+        "url": "https://github.com/SqueezeAILab/KVQuant",
+        "file_url": "https://github.com/SqueezeAILab/KVQuant/blob/6144e4e5664a60abba6e769c171d0e568e67e1f5/gradients/src/transformers/tools/agents.py"
+    },
+    "735417866": {
+        "score": 1.0,
+        "name": "gpt.py",
+        "url": "https://github.com/Deathpoolxrs/rengine-fork",
+        "file_url": "https://github.com/Deathpoolxrs/rengine-fork/blob/f7c89c9fbf42f3cfc7567fdf0339e228ff08161c/web/reNgine/gpt.py"
+    },
+    "746382609": {
+        "score": 1.0,
+        "name": "benchmarks.ipynb",
+        "url": "https://github.com/lorainemg/Made-With-ML",
+        "file_url": "https://github.com/lorainemg/Made-With-ML/blob/66e8e437115029422db1a80ff93c308cfcd82648/notebooks/benchmarks.ipynb"
+    },
+    "747419518": {
+        "score": 1.0,
+        "name": "benchmarks.ipynb",
+        "url": "https://github.com/jekabspl/upgraded-octo-engine",
+        "file_url": "https://github.com/jekabspl/upgraded-octo-engine/blob/04749725f089b4aab76c36a4fecaa39167958657/notebooks/benchmarks.ipynb"
+    },
+    "739595275": {
+        "score": 1.0,
+        "name": "benchmarks.ipynb",
+        "url": "https://github.com/michaelsyang/made-with-ml",
+        "file_url": "https://github.com/michaelsyang/made-with-ml/blob/bfa8a58935e4a3692574c391a058fcea8322d8c1/notebooks/benchmarks.ipynb"
+    },
+    "752239815": {
+        "score": 1.0,
+        "name": "benchmarks.ipynb",
+        "url": "https://github.com/allenlee126/Made-With-ML",
+        "file_url": "https://github.com/allenlee126/Made-With-ML/blob/50c872803df54af1008c2d06ea7c06e28bf5396c/notebooks/benchmarks.ipynb"
+    },
+    "666839765": {
+        "score": 1.0,
+        "name": "BabyBeeAGI.py",
+        "url": "https://github.com/hackgoofer/AgentsUnleashed",
+        "file_url": "https://github.com/hackgoofer/AgentsUnleashed/blob/17e2063d5eb9a991443a423990e026609d339f58/socket/babyagi/classic/BabyBeeAGI.py"
+    },
+    "635460330": {
+        "score": 1.0,
+        "name": "BabyBeeAGI.py",
+        "url": "https://github.com/KatherLab/llm-agent",
+        "file_url": "https://github.com/KatherLab/llm-agent/blob/b1e2b93bc5c75c73ca6908df2c4e33e3ca2b6fa6/generator/agents/babyagi/classic/BabyBeeAGI.py"
+    },
+    "738425588": {
+        "score": 1.0,
+        "name": "BabyBeeAGI.py",
+        "url": "https://github.com/glencode/babyagi_git",
+        "file_url": "https://github.com/glencode/babyagi_git/blob/c389b0f60a74f5efd87e2de0383491e150122b38/classic/BabyBeeAGI.py"
+    },
+    "677252024": {
+        "score": 1.0,
+        "name": "BabyBeeAGI.py",
+        "url": "https://github.com/arben777/giga_chad",
+        "file_url": "https://github.com/arben777/giga_chad/blob/476d00809ffce73ef862f414f5fc1ab4965f5457/babyagi-main/classic/BabyBeeAGI.py"
+    },
+    "711790224": {
+        "score": 1.0,
+        "name": "commonapi.py",
+        "url": "https://github.com/kzarm/django_blog",
+        "file_url": "https://github.com/kzarm/django_blog/blob/fdb41d527c163586f4633b12fddefea36006cfac/servermanager/api/commonapi.py"
+    },
+    "677727483": {
+        "score": 1.0,
+        "name": "commonapi.py",
+        "url": "https://github.com/CrookshanksAcademy/CrookshanksAcademy",
+        "file_url": "https://github.com/CrookshanksAcademy/CrookshanksAcademy/blob/c6a70135808163c1d6dfdc974a097a8391a681c7/servermanager/api/commonapi.py"
+    },
+    "700437924": {
+        "score": 1.0,
+        "name": "commonapi.py",
+        "url": "https://github.com/LineS0/myBlog",
+        "file_url": "https://github.com/LineS0/myBlog/blob/d567ce142d3bfaaf56798746ee17660d9b7ee122/servermanager/api/commonapi.py"
+    },
+    "744009344": {
+        "score": 1.0,
+        "name": "commonapi.py",
+        "url": "https://github.com/flaskbott/Blog",
+        "file_url": "https://github.com/flaskbott/Blog/blob/e22ef238424fbbafe1f941c20ae26c1307f9f7fb/servermanager/api/commonapi.py"
+    },
+    "754442585": {
+        "score": 1.0,
+        "name": "openai-proxy.mdx",
+        "url": "https://github.com/labi1240/SweepAI",
+        "file_url": "https://github.com/labi1240/SweepAI/blob/fa52be9dbc32b29213edbcb9becc7745ce2bef40/docs/pages/blogs/openai-proxy.mdx"
+    },
+    "637269077": {
+        "score": 1.0,
+        "name": "api_manager.py",
+        "url": "https://github.com/Alex-zry-2333/AUTOGPT-CHinese",
+        "file_url": "https://github.com/Alex-zry-2333/AUTOGPT-CHinese/blob/30e6561a321fef5b1dd83d3bb7dc1d24bf48503d/autogpt/llm/api_manager.py"
+    },
+    "681320434": {
+        "score": 1.0,
+        "name": "api_manager.py",
+        "url": "https://github.com/dazralsky/Auto-GPT",
+        "file_url": "https://github.com/dazralsky/Auto-GPT/blob/e96ed00c717d95114ca99206e42a81a10269e1c6/autogpt/llm/api_manager.py"
+    },
+    "731392774": {
+        "score": 1.0,
+        "name": "gen_mmlu.py",
+        "url": "https://github.com/GasonBai/MultiAgentsRAG",
+        "file_url": "https://github.com/GasonBai/MultiAgentsRAG/blob/cbabcdcb8901d2d4ee121c2a625d12f0e8af0af2/Evaluation_methods/MMLU/gen_mmlu.py"
+    },
+    "712101298": {
+        "score": 1.0,
+        "name": "camel~models~openai_model.py",
+        "url": "https://github.com/pisterlabs/promptset",
+        "file_url": "https://github.com/pisterlabs/promptset/blob/6a30fa901f873c7fc70abafbd7fa92bfec96d3f1/analytics/false_negatives/repos/camel-ai~camel/camel~models~openai_model.py"
+    },
+    "734813371": {
+        "score": 1.0,
+        "name": "chat_with_your_own_data.ipynb",
+        "url": "https://github.com/Rathnayaka1988/zzx",
+        "file_url": "https://github.com/Rathnayaka1988/zzx/blob/e8cf7cb8340a480571a9380f77ad804857e724c2/examples/azure/archive/chat_with_your_own_data.ipynb"
+    },
+    "752179763": {
+        "score": 1.0,
+        "name": "chat_with_your_own_data.ipynb",
+        "url": "https://github.com/2lambda123/openai-openai-cookbook",
+        "file_url": "https://github.com/2lambda123/openai-openai-cookbook/blob/b0eaaa00c2f4b7fe6db7205f6af69598ef1b66a6/examples/azure/archive/chat_with_your_own_data.ipynb"
+    },
+    "737368592": {
+        "score": 1.0,
+        "name": "chat_with_your_own_data.ipynb",
+        "url": "https://github.com/d68864767/examples",
+        "file_url": "https://github.com/d68864767/examples/blob/2cfaf7535edd2636076aed8d5e651bf41fa47f21/azure/archive/chat_with_your_own_data.ipynb"
+    },
+    "714225253": {
+        "score": 1.0,
+        "name": "transcript_enrich_summaries.py",
+        "url": "https://github.com/ferjosem362/generative-AI-training",
+        "file_url": "https://github.com/ferjosem362/generative-AI-training/blob/4fc09923033cb49bc025a287ab50f479cc732f9d/08-building-search-applications/scripts/transcript_enrich_summaries.py"
+    },
+    "742762743": {
+        "score": 1.0,
+        "name": "transcript_enrich_summaries.py",
+        "url": "https://github.com/mugambijavan/generative-AI",
+        "file_url": "https://github.com/mugambijavan/generative-AI/blob/061a18f2df90d6e86afe2799b9f34e22cb581a5d/08-building-search-applications/scripts/transcript_enrich_summaries.py"
+    },
+    "683398073": {
+        "score": 1.0,
+        "name": "transcript_enrich_summaries.py",
+        "url": "https://github.com/GDSCltce/AIML",
+        "file_url": "https://github.com/GDSCltce/AIML/blob/27ec8cd5d9246274f4eb483ca26ca4462067ac47/AI/generative-ai-for-beginners/08-building-search-applications/scripts/transcript_enrich_summaries.py"
+    },
+    "716404838": {
+        "score": 1.0,
+        "name": "transcript_enrich_summaries.py",
+        "url": "https://github.com/Ricky-S/Generative_AI",
+        "file_url": "https://github.com/Ricky-S/Generative_AI/blob/69772dfdeaa964bc1a45239b75824f76c48aadc3/microsoft%20generative-ai-for-beginners/08-building-search-applications/scripts/transcript_enrich_summaries.py"
+    },
+    "743368981": {
+        "score": 1.0,
+        "name": "evaluate_responsegen.py",
+        "url": "https://github.com/pull-ups/BnS_agentworld",
+        "file_url": "https://github.com/pull-ups/BnS_agentworld/blob/1fab9d903cae9e0dee361c3aec698775be1d9594/scripts/evaluate_responsegen.py"
+    },
+    "749613469": {
+        "score": 1.0,
+        "name": "evaluate_responsegen.py",
+        "url": "https://github.com/lilbillybiscuit/AgentVerse-RepoCoder",
+        "file_url": "https://github.com/lilbillybiscuit/AgentVerse-RepoCoder/blob/511b7bfe3e11bf82cedd029c49a7b828ac503f37/scripts/evaluate_responsegen.py"
+    },
+    "665138783": {
+        "score": 1.0,
+        "name": "chatgpt.py",
+        "url": "https://github.com/artyang/PentestGPT",
+        "file_url": "https://github.com/artyang/PentestGPT/blob/bc7ef102b8eaabbc59af21dbed1413c006e8c6bb/pentestgpt/utils/chatgpt.py"
+    },
+    "701238563": {
+        "score": 1.0,
+        "name": "PvsNP_31to36.ipynb",
+        "url": "https://github.com/gkbharathy/LMOps",
+        "file_url": "https://github.com/gkbharathy/LMOps/blob/e6c205f02eedbb9d8872c32d4bf06043fb7a46e2/LLM4Science/PvsNP_31to36.ipynb"
+    },
+    "640122364": {
+        "score": 1.0,
+        "name": "chatgpt_model.py",
+        "url": "https://github.com/hbqjzx/wxxiaozhi",
+        "file_url": "https://github.com/hbqjzx/wxxiaozhi/blob/dfc4a6518344d321150f9fb730a301e4a4eaa954/model/openai/chatgpt_model.py"
+    },
+    "633281700": {
+        "score": 1.0,
+        "name": "chatgpt_model.py",
+        "url": "https://github.com/enjoysport2022/bot-on-anything-zhishuyun",
+        "file_url": "https://github.com/enjoysport2022/bot-on-anything-zhishuyun/blob/1b0223dbc33d2c944aa64b75f6f0b225e6497039/model/openai/chatgpt_model.py"
+    },
+    "625763758": {
+        "score": 1.0,
+        "name": "alpacaModifier.py",
+        "url": "https://github.com/l294265421/multi-turn-alpaca",
+        "file_url": "https://github.com/l294265421/multi-turn-alpaca/blob/3615c33302fd7345340d93fc2307936d55f5a65a/data/original_data/AlpacaDataCleaned/alpacaModifier.py"
+    },
+    "714872855": {
+        "score": 1.0,
+        "name": "alpacaModifier.py",
+        "url": "https://github.com/yash14700/creative-queries",
+        "file_url": "https://github.com/yash14700/creative-queries/blob/abc223f59266e407f79700d5aecbd6f32f9e7434/alpacaModifier.py"
+    },
+    "655599284": {
+        "score": 1.0,
+        "name": "openai_api.ipynb",
+        "url": "https://github.com/danielosetiawan/GPT-API",
+        "file_url": "https://github.com/danielosetiawan/GPT-API/blob/d6269e3fd99dcf278cb256387d4d02ee529b8e05/scripts/openai_api.ipynb"
+    },
+    "670959407": {
+        "score": 1.0,
+        "name": "openai_api.ipynb",
+        "url": "https://github.com/tanya-agIM/bard",
+        "file_url": "https://github.com/tanya-agIM/bard/blob/4f87716418981ea21399fcc6ae0b516b169d0ffd/scripts/openai_api.ipynb"
+    },
+    "752444896": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/jawg-zz/openai-proxy",
+        "file_url": "https://github.com/jawg-zz/openai-proxy/blob/3ea863c42bc43c1d01f6a9608361bb526099f40d/litellm/deprecated_litellm_server/main.py"
+    },
+    "753450325": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/mtgmtg1/openai-proxy",
+        "file_url": "https://github.com/mtgmtg1/openai-proxy/blob/da6f80b2d164fcd080e2e907b2eab53fbaa29e48/litellm/deprecated_litellm_server/main.py"
+    },
+    "734228216": {
+        "score": 1.0,
+        "name": "OPENAI.md",
+        "url": "https://github.com/find-xposed-magisk/bingo",
+        "file_url": "https://github.com/find-xposed-magisk/bingo/blob/9a374fe2c9bdae6fb079633c796c7671e5e10b89/OPENAI.md"
+    },
+    "741880776": {
+        "score": 1.0,
+        "name": "OPENAI.md",
+        "url": "https://github.com/Bingchatbot/Bingcopilotchat",
+        "file_url": "https://github.com/Bingchatbot/Bingcopilotchat/blob/ec877139c5c8f13d5b02ec5f8dc5b21a62e519a4/OPENAI.md"
+    },
+    "753065897": {
+        "score": 1.0,
+        "name": "OPENAI.md",
+        "url": "https://github.com/fannow/binggpt",
+        "file_url": "https://github.com/fannow/binggpt/blob/eaebba306d5f68b940e4486ad81897516d0db0f3/OPENAI.md"
+    },
+    "733954644": {
+        "score": 1.0,
+        "name": "README.md",
+        "url": "https://github.com/worm128/AI-YinMei",
+        "file_url": "https://github.com/worm128/AI-YinMei/blob/85dc7a0f6516370cb244af2a7396b63630994ec7/ChatGLM2/README.md"
+    },
+    "734261286": {
+        "score": 1.0,
+        "name": "README.md",
+        "url": "https://github.com/BEIJINGOPRA/TrajGLM",
+        "file_url": "https://github.com/BEIJINGOPRA/TrajGLM/blob/8dc5aead06c27de78377dfcc16e3b5748075293c/exp/README.md"
+    },
+    "735034173": {
+        "score": 1.0,
+        "name": "README.md",
+        "url": "https://github.com/Marmot509/ft-glm3-6b",
+        "file_url": "https://github.com/Marmot509/ft-glm3-6b/blob/e78995eec75a367e89006182f99b80517eb049fe/ChatGLM2-6B-main/README.md"
+    },
+    "739568722": {
+        "score": 1.0,
+        "name": "llm.py",
+        "url": "https://github.com/lukketsvane/co-auth",
+        "file_url": "https://github.com/lukketsvane/co-auth/blob/025fb6391ea0e05f8eeb77ada23b0e0d1144f3c7/gpt_researcher/utils/llm.py"
+    },
+    "630377196": {
+        "score": 1.0,
+        "name": "parallel_gpt.py",
+        "url": "https://github.com/2lambda123/malaya",
+        "file_url": "https://github.com/2lambda123/malaya/blob/7b82c7a53692792c3dad4afed84d75cb554aa656/misc/normalize-twitter/parallel_gpt.py"
+    },
+    "742084632": {
+        "score": 1.0,
+        "name": "open_ai_failure_hook.py",
+        "url": "https://github.com/OmGhadge/Project_Healthcare",
+        "file_url": "https://github.com/OmGhadge/Project_Healthcare/blob/52f35db21816c8fd4f262922cea54ed46a62037e/myenv/Lib/site-packages/zenml/integrations/openai/hooks/open_ai_failure_hook.py"
+    },
+    "735059009": {
+        "score": 1.0,
+        "name": "open_ai_failure_hook.py",
+        "url": "https://github.com/shantanu-dahitule/MLOpsBasics",
+        "file_url": "https://github.com/shantanu-dahitule/MLOpsBasics/blob/68161186ef5075e148ef59ba1ebc69797a615571/MlopsBasic/Lib/site-packages/zenml/integrations/openai/hooks/open_ai_failure_hook.py"
+    },
+    "752706059": {
+        "score": 1.0,
+        "name": "open_ai_failure_hook.py",
+        "url": "https://github.com/noneotherthanmodi/mlflow",
+        "file_url": "https://github.com/noneotherthanmodi/mlflow/blob/dd16dac76c93f6bb279841af39b347abab4329e2/venv/Lib/site-packages/zenml/integrations/openai/hooks/open_ai_failure_hook.py"
+    },
+    "693681496": {
+        "score": 1.0,
+        "name": "chat_gpt_agent.py",
+        "url": "https://github.com/staffhubai/vocode",
+        "file_url": "https://github.com/staffhubai/vocode/blob/41d8027ae5670d43352bb4a086d0f86054f06799/vocode/streaming/agent/chat_gpt_agent.py"
+    },
+    "734166281": {
+        "score": 1.0,
+        "name": "func_chatgpt.py",
+        "url": "https://github.com/vgoer/WeChatRobot",
+        "file_url": "https://github.com/vgoer/WeChatRobot/blob/7788427c32ec5ef9e5b9cc21f0315b4cfd4c5de1/base/func_chatgpt.py"
+    },
+    "738400864": {
+        "score": 1.0,
+        "name": "model.py",
+        "url": "https://github.com/xinzhel/reflexion",
+        "file_url": "https://github.com/xinzhel/reflexion/blob/50a2fa618c1bb3056a61a676a8901677cbe3e7c5/programming_runs/generators/model.py"
+    },
+    "728352995": {
+        "score": 1.0,
+        "name": "model.py",
+        "url": "https://github.com/juggernautjha/lol",
+        "file_url": "https://github.com/juggernautjha/lol/blob/d15acda1c81d464d9a81648d7f29fb951e326c70/programming_runs/generators/model.py"
+    },
+    "728718249": {
+        "score": 1.0,
+        "name": "model.py",
+        "url": "https://github.com/juggernautjha/more-gas",
+        "file_url": "https://github.com/juggernautjha/more-gas/blob/cbd4684890c710b8ba8269945ed3d60c24da6d72/programming_runs/generators/model.py"
+    },
+    "666299222": {
+        "score": 1.0,
+        "name": "ai.py",
+        "url": "https://github.com/KillianLucas/open-interpreter",
+        "file_url": "https://github.com/KillianLucas/open-interpreter/blob/342b17426439fdab4bfce4aa77f5774db3e2c6a3/interpreter/core/computer/ai/ai.py"
+    },
+    "634081686": {
+        "score": 1.0,
+        "name": "sample_openai.py",
+        "url": "https://github.com/mlc-ai/mlc-llm",
+        "file_url": "https://github.com/mlc-ai/mlc-llm/blob/3feed0575e23d27178106bd2d8bc06c0b3f133aa/examples/rest/python/sample_openai.py"
+    },
+    "40081991": {
+        "score": 1.0,
+        "name": "20230831_01.md",
+        "url": "https://github.com/digoal/blog",
+        "file_url": "https://github.com/digoal/blog/blob/4f29e96b4d877f6991f8ebfa5a44cb1a00dc7a22/202308/20230831_01.md"
+    },
+    "639346169": {
+        "score": 1.0,
+        "name": "qa_baseline_gpt.py",
+        "url": "https://github.com/artidoro/qlora",
+        "file_url": "https://github.com/artidoro/qlora/blob/7f4e95a68dc076bea9b3a413d2b512eca6d004e5/eval/qa_baseline_gpt.py"
+    },
+    "674075444": {
+        "score": 1.0,
+        "name": "README_ES.md",
+        "url": "https://github.com/QwenLM/Qwen",
+        "file_url": "https://github.com/QwenLM/Qwen/blob/85cb093f20e1faa1d772d6abe8458661f3b09202/README_ES.md"
+    },
+    "701540574": {
+        "score": 1.0,
+        "name": "eval_gpt_review_3newclass.py",
+        "url": "https://github.com/apple/ml-ferret",
+        "file_url": "https://github.com/apple/ml-ferret/blob/262a943e1f856c52d6491de10f443d804b8132ee/ferret/eval/eval_gpt_review_3newclass.py"
+    },
+    "607438804": {
+        "score": 1.0,
+        "name": "messages.py",
+        "url": "https://github.com/caesarHQ/textSQL",
+        "file_url": "https://github.com/caesarHQ/textSQL/blob/7393e19b1458f1004d312713f5fe49968449e33c/api/app/api/utils/messages.py"
+    },
+    "611817888": {
+        "score": 1.0,
+        "name": "prompt_engineering.py",
+        "url": "https://github.com/B1lli/BillyGPT",
+        "file_url": "https://github.com/B1lli/BillyGPT/blob/210743269a135584316b8026c99bd91a7ad20c07/prompt_engineering.py"
+    },
+    "641211854": {
+        "score": 1.0,
+        "name": "client.py",
+        "url": "https://github.com/tensorchord/modelz-llm",
+        "file_url": "https://github.com/tensorchord/modelz-llm/blob/13770f88cec0c5670361bf7fe86fe3db27b6feca/client.py"
+    },
+    "633933122": {
+        "score": 1.0,
+        "name": "2. \u63d0\u793a\u539f\u5219 Guidelines.ipynb",
+        "url": "https://github.com/datawhalechina/prompt-engineering-for-developers",
+        "file_url": "https://github.com/datawhalechina/prompt-engineering-for-developers/blob/9dbcb48416eb8af9ff9447388838521dc0f9acb0/content/Prompt%20Engineering%20for%20Developer/2.%20%E6%8F%90%E7%A4%BA%E5%8E%9F%E5%88%99%20Guidelines.ipynb"
+    },
+    "598517439": {
+        "score": 1.0,
+        "name": "openai_chat_agent.py",
+        "url": "https://github.com/AI4Finance-Foundation/FinNLP",
+        "file_url": "https://github.com/AI4Finance-Foundation/FinNLP/blob/1046aac8d152bedd524ed1b29a71a681a06d5500/finnlp/large_language_models/openai/openai_chat_agent.py"
+    },
+    "634151665": {
+        "score": 1.0,
+        "name": "l4-summarizing.ipynb",
+        "url": "https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese",
+        "file_url": "https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese/blob/3fe96fb57353f90c57f55c14480b4d0dacbf07c1/course_notebooks/l4-summarizing.ipynb"
+    },
+    "667480296": {
+        "score": 1.0,
+        "name": "model.ipynb",
+        "url": "https://github.com/DjangoPeng/openai-quickstart",
+        "file_url": "https://github.com/DjangoPeng/openai-quickstart/blob/1b2c3e073ab6854a336d290894c351c1eb341da0/langchain/jupyter/model_io/model.ipynb"
+    },
+    "624506415": {
+        "score": 1.0,
+        "name": "functions_with_azure_search.ipynb",
+        "url": "https://github.com/Azure-Samples/openai",
+        "file_url": "https://github.com/Azure-Samples/openai/blob/db6ac923afb7746ccc4a555d367501ad1cc226bb/Basic_Samples/Functions/functions_with_azure_search.ipynb"
+    },
+    "699108524": {
+        "score": 1.0,
+        "name": "llm_proxy.py",
+        "url": "https://github.com/RManLuo/reasoning-on-graphs",
+        "file_url": "https://github.com/RManLuo/reasoning-on-graphs/blob/9cc37539dc020fd05751a9654f2a26a3eb6e33bd/src/llms/llm_proxy.py"
+    },
+    "514217147": {
+        "score": 1.0,
+        "name": "inference-WideDeep.py",
+        "url": "https://github.com/AlibabaResearch/DAMO-ConvAI",
+        "file_url": "https://github.com/AlibabaResearch/DAMO-ConvAI/blob/3c1890d16b775a449ce77736c146adde6dafd45c/WideDeep/inference-WideDeep.py"
+    },
+    "623451190": {
+        "score": 1.0,
+        "name": "english2cypher.py",
+        "url": "https://github.com/tomasonjo/NeoGPT-Recommender",
+        "file_url": "https://github.com/tomasonjo/NeoGPT-Recommender/blob/3754be07c0b9d0973c67921bed2116c412f52caf/app/english2cypher.py"
+    },
+    "612296456": {
+        "score": 1.0,
+        "name": "function_calling.ipynb",
+        "url": "https://github.com/Sentdex/ChatGPT-API-Basics",
+        "file_url": "https://github.com/Sentdex/ChatGPT-API-Basics/blob/69dc49430297d1d55995cab8d192851f3e4600cd/function_calling.ipynb"
+    },
+    "626773493": {
+        "score": 1.0,
+        "name": "\u5fae\u8c03\u793a\u4f8b.md",
+        "url": "https://github.com/xing61/xiaoyi-robot",
+        "file_url": "https://github.com/xing61/xiaoyi-robot/blob/78793a4f4ac9a8efc523922c7dbf5e4c813b18e2/fine-tune.%E5%BE%AE%E8%B0%83/%E5%BE%AE%E8%B0%83%E7%A4%BA%E4%BE%8B.md"
+    },
+    "652191505": {
+        "score": 1.0,
+        "name": "lightspeedColab.ipynb",
+        "url": "https://github.com/andrewgcodes/lightspeedGPT",
+        "file_url": "https://github.com/andrewgcodes/lightspeedGPT/blob/41bcf968db057575b8b30bf819c7806ab15fad6d/lightspeedColab.ipynb"
+    },
+    "634082741": {
+        "score": 1.0,
+        "name": "4.inferring.err.log",
+        "url": "https://github.com/isLinXu/prompt-engineering-note",
+        "file_url": "https://github.com/isLinXu/prompt-engineering-note/blob/b233743496d8a7a39cfda6d3bb04d52ea0a29277/docs/reports/jb_code/4.inferring.err.log"
+    },
+    "663121272": {
+        "score": 1.0,
+        "name": "eval_gpt_review.py",
+        "url": "https://github.com/jshilong/GPT4RoI",
+        "file_url": "https://github.com/jshilong/GPT4RoI/blob/7c157b5f33914f21cfbc804fb301d3ce06324193/llava/eval/eval_gpt_review.py"
+    },
+    "650918061": {
+        "score": 1.0,
+        "name": "13.Fine_tuning_OpenAI_GPT_3_5_turbo.ipynb",
+        "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+        "file_url": "https://github.com/ashishpatel26/LLM-Finetuning/blob/fb688035920696599d53f283899629bfd39f09e9/13.Fine_tuning_OpenAI_GPT_3_5_turbo.ipynb"
+    },
+    "687347919": {
+        "score": 1.0,
+        "name": "Fine Tuning model.ipynb",
+        "url": "https://github.com/retkowsky/Azure-OpenAI-demos",
+        "file_url": "https://github.com/retkowsky/Azure-OpenAI-demos/blob/f7a9e2f256783dbacd61f474a1a1847ab7bb05e8/Fine%20Tuning/Fine%20Tuning%20model.ipynb"
+    },
+    "691365854": {
+        "score": 1.0,
+        "name": "Usage.md",
+        "url": "https://github.com/RockChinQ/free-one-api",
+        "file_url": "https://github.com/RockChinQ/free-one-api/blob/9483b858fbdd7135d2569a2fffa7727fea8903e9/docs/en/Usage.md"
+    },
+    "664608841": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/appwrite/templates",
+        "file_url": "https://github.com/appwrite/templates/blob/2960592244f1e64324e46341d8974f06ee1a1f0c/python/prompt_chatgpt/src/main.py"
+    },
+    "661464971": {
+        "score": 1.0,
+        "name": "evaluate_finetune_model.py",
+        "url": "https://github.com/liruiw/GenSim",
+        "file_url": "https://github.com/liruiw/GenSim/blob/5d01b67ac36027c5c415e5a06fc76d659a9a1624/gensim/evaluate_finetune_model.py"
+    },
+    "647023979": {
+        "score": 1.0,
+        "name": "openai.py",
+        "url": "https://github.com/Gentopia-AI/Gentopia",
+        "file_url": "https://github.com/Gentopia-AI/Gentopia/blob/6a0f5693bf19299792eda469f9661e5bbc191699/gentopia/llm/client/openai.py"
+    },
+    "656890361": {
+        "score": 1.0,
+        "name": "chatread.py",
+        "url": "https://github.com/Azure-Samples/jp-azureopenai-samples",
+        "file_url": "https://github.com/Azure-Samples/jp-azureopenai-samples/blob/ee1ba771ee63d7b09c2eff0cd1cf25ba0d725cf5/5.internal-document-search/src/backend/approaches/chatread.py"
+    },
+    "582209171": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/Paraworks/vits_with_chatgpt-gpt3",
+        "file_url": "https://github.com/Paraworks/vits_with_chatgpt-gpt3/blob/f71862af6b3e56cbc0ff094e9888859d22638d83/main.py"
+    },
+    "637873341": {
+        "score": 1.0,
+        "name": "ChatGPT.py",
+        "url": "https://github.com/pat-jj/GraphCare",
+        "file_url": "https://github.com/pat-jj/GraphCare/blob/ce7c6e1ffd6b0f789976a5292fc9623dccda944c/graphcare_/graph_generation/ChatGPT.py"
+    },
+    "616927488": {
+        "score": 1.0,
+        "name": "summarizer.py",
+        "url": "https://github.com/EC-DIGIT-CSIRC/openai-cti-summarizer",
+        "file_url": "https://github.com/EC-DIGIT-CSIRC/openai-cti-summarizer/blob/5dc94462a8e6377ae33337e9b3ce3792e03b8659/app/summarizer.py"
+    },
+    "629871484": {
+        "score": 1.0,
+        "name": "douyin.py",
+        "url": "https://github.com/smallnew666/ChatGPT-Virtual-Live",
+        "file_url": "https://github.com/smallnew666/ChatGPT-Virtual-Live/blob/741993fb3cc9ae13296d6be494994dcdd16cdd2c/douyin/douyin.py"
+    },
+    "649943230": {
+        "score": 1.0,
+        "name": "LLMHelper.py",
+        "url": "https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator",
+        "file_url": "https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator/blob/4756cd1d009a2afd3b34cba6c3c38df5d66cb4e9/code/utilities/helpers/LLMHelper.py"
+    },
+    "653428642": {
+        "score": 1.0,
+        "name": "utils.py",
+        "url": "https://github.com/tangqiaoyu/ToolAlpaca",
+        "file_url": "https://github.com/tangqiaoyu/ToolAlpaca/blob/c43463a2d7fb0173f1197cc1e27717341bd21d09/utils.py"
+    },
+    "119419202": {
+        "score": 1.0,
+        "name": "OpenAI_Finetuning_on_Gorilla_with_wandb.ipynb",
+        "url": "https://github.com/wandb/examples",
+        "file_url": "https://github.com/wandb/examples/blob/78e920895a20c2a6c620d073191c5a319e36f6a1/colabs/openai/OpenAI_Finetuning_on_Gorilla_with_wandb.ipynb"
+    },
+    "629702988": {
+        "score": 1.0,
+        "name": "LangChain_OpenAI_Function_Calling.ipynb",
+        "url": "https://github.com/sugarforever/LangChain-Tutorials",
+        "file_url": "https://github.com/sugarforever/LangChain-Tutorials/blob/cd4d41022904c667b1d1a8536291a2c38d82142e/LangChain_OpenAI_Function_Calling.ipynb"
+    },
+    "616682559": {
+        "score": 1.0,
+        "name": "alter_dataset.ipynb",
+        "url": "https://github.com/serp-ai/LLaMA-8bit-LoRA",
+        "file_url": "https://github.com/serp-ai/LLaMA-8bit-LoRA/blob/2d98f56bdd38095b5d96a2d0ffefa1fdc86d1212/examples/alter_dataset.ipynb"
+    },
+    "671321837": {
+        "score": 1.0,
+        "name": "chat_gpt_bot.py",
+        "url": "https://github.com/wwwzhouhui/Claude2-PyAPI",
+        "file_url": "https://github.com/wwwzhouhui/Claude2-PyAPI/blob/8787e7675f6d20418f74fe477b3dba1a511be221/bot/chatgpt/chat_gpt_bot.py"
+    },
+    "608941288": {
+        "score": 1.0,
+        "name": "gpt_functions2.ipynb",
+        "url": "https://github.com/hsnam95/class2023Spring",
+        "file_url": "https://github.com/hsnam95/class2023Spring/blob/9f108e47c953c6f98eebdb92664a2e8736c11100/gpt_functions2.ipynb"
+    },
+    "634334656": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/musabgultekin/youtube-tldw",
+        "file_url": "https://github.com/musabgultekin/youtube-tldw/blob/3e1734d5ccb4562f71ab09c92ecafce53a1c9b65/main.py"
+    },
+    "643005437": {
+        "score": 1.0,
+        "name": "as_gpt_qa.py",
+        "url": "https://github.com/YuanGongND/ltu",
+        "file_url": "https://github.com/YuanGongND/ltu/blob/8c8f92446a8121fc78d2f7dece2a6e08dc2061b2/src/ltu/qa_generation/as_gpt_qa.py"
+    },
+    "634717328": {
+        "score": 1.0,
+        "name": "state.py",
+        "url": "https://github.com/reflex-dev/reflex-chat",
+        "file_url": "https://github.com/reflex-dev/reflex-chat/blob/7cf692ef42fdba3698f9ff0994a132cc82247bd2/webui/webui/state.py"
+    },
+    "697317047": {
+        "score": 1.0,
+        "name": "view.py",
+        "url": "https://github.com/plotly/all-in-ai-demo-app",
+        "file_url": "https://github.com/plotly/all-in-ai-demo-app/blob/dc4c309c00165506b5435909e81f4a8042b30295/pages/view.py"
+    },
+    "615904212": {
+        "score": 1.0,
+        "name": "structure_mimic.ipynb",
+        "url": "https://github.com/kbressem/gpt4-structured-reporting",
+        "file_url": "https://github.com/kbressem/gpt4-structured-reporting/blob/ef043d4e81a56421d6c785340647d8251544ae0a/examples/structure_mimic.ipynb"
+    },
+    "609453924": {
+        "score": 1.0,
+        "name": "app.py",
+        "url": "https://github.com/kenoharada/AI-LaBuddy",
+        "file_url": "https://github.com/kenoharada/AI-LaBuddy/blob/9d72f28055b26a4dbbeab2eaf02853dd1676508a/slack-qa/app.py"
+    },
+    "586870174": {
+        "score": 1.0,
+        "name": "OpenAISpec.json",
+        "url": "https://github.com/landgraf-dev/openai-delphi",
+        "file_url": "https://github.com/landgraf-dev/openai-delphi/blob/6b050f10a4549de87774e97a9125d114b3d807b4/OpenAISpec.json"
+    },
+    "629886335": {
+        "score": 1.0,
+        "name": "models.py",
+        "url": "https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs",
+        "file_url": "https://github.com/PacktPublishing/Building-AI-Applications-with-ChatGPT-APIs/blob/256dc3d79240a828be6962afc969a432861ca963/Chapter11%20Models/models.py"
+    },
+    "672803144": {
+        "score": 1.0,
+        "name": "common.py",
+        "url": "https://github.com/HC-Guo/Owl",
+        "file_url": "https://github.com/HC-Guo/Owl/blob/ec29da19b1e397f064447c1bff68c394b76b6206/Question_Answer/common.py"
+    },
+    "629748288": {
+        "score": 1.0,
+        "name": "data_gen.py",
+        "url": "https://github.com/danielgross/LlamaAcademy",
+        "file_url": "https://github.com/danielgross/LlamaAcademy/blob/c8372d57067755c87679d8b4ea7305c8afc94371/data_gen.py"
+    },
+    "658611851": {
+        "score": 1.0,
+        "name": "run_eval_qa_moviechat.py",
+        "url": "https://github.com/rese1f/MovieChat",
+        "file_url": "https://github.com/rese1f/MovieChat/blob/ffc03be7cfa5e02642c2ea19082c7d382cd43882/eval_code/Acc_score/run_eval_qa_moviechat.py"
+    },
+    "652800907": {
+        "score": 1.0,
+        "name": "process.py",
+        "url": "https://github.com/macrocosmcorp/tenet",
+        "file_url": "https://github.com/macrocosmcorp/tenet/blob/003492e44ef548012f551d1057592ecf6d2f2bfd/process.py"
+    },
+    "608339815": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python",
+        "file_url": "https://github.com/FrancescoSaverioZuppichini/how-to-use-chatgpt-with-python/blob/a9f2ca6a9ae23b925944876726cdf1648ac67c9d/main.py"
+    },
+    "647473488": {
+        "score": 1.0,
+        "name": "app.py",
+        "url": "https://github.com/elastic/chatgpt-log-analysis",
+        "file_url": "https://github.com/elastic/chatgpt-log-analysis/blob/87643a6077658e01197a9a6cd99c2d0944ddf0a2/app.py"
+    },
+    "624622220": {
+        "score": 1.0,
+        "name": "gpt.py",
+        "url": "https://github.com/RealityAnchor/ries-gpt-ui",
+        "file_url": "https://github.com/RealityAnchor/ries-gpt-ui/blob/8d881a1f089573e918f93266f2ef6b21e3faee15/gpt.py"
+    },
+    "645997602": {
+        "score": 1.0,
+        "name": "loading_main.py",
+        "url": "https://github.com/ctavolazzi/NovaSystem",
+        "file_url": "https://github.com/ctavolazzi/NovaSystem/blob/bd1da41fc0cc3dabc41786b955e6e129ab1c50d7/Archive/scratch_version/brainstorming/loading_main.py"
+    },
+    "651441273": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/DAMO-NLP-SG/M3Exam",
+        "file_url": "https://github.com/DAMO-NLP-SG/M3Exam/blob/832a49585d1e8049612b4fd4669f3f8fee9c6014/main.py"
+    },
+    "706867041": {
+        "score": 1.0,
+        "name": "prompt_engineering_setup.sql",
+        "url": "https://github.com/Snowflake-Labs/sfguide-prompt-engineering-and-llm-evaluation",
+        "file_url": "https://github.com/Snowflake-Labs/sfguide-prompt-engineering-and-llm-evaluation/blob/2583f3f11c5e2e11dc2baa2e5d890c7309731230/prompt_engineering_setup.sql"
+    },
+    "618475969": {
+        "score": 1.0,
+        "name": "GPT-Journey.py",
+        "url": "https://github.com/Sentdex/GPT-Journey",
+        "file_url": "https://github.com/Sentdex/GPT-Journey/blob/e6e6144b0b681f488bcbad39108c00ae673c92ad/GPT-Journey.py"
+    },
+    "629369483": {
+        "score": 1.0,
+        "name": "eval_chatgpt.py",
+        "url": "https://github.com/jayelm/gisting",
+        "file_url": "https://github.com/jayelm/gisting/blob/5c4ff1d61788b53a219b46233ddd801077afc227/scripts/eval_chatgpt.py"
+    },
+    "638554577": {
+        "score": 1.0,
+        "name": "22.py",
+        "url": "https://github.com/vladris/llm-book",
+        "file_url": "https://github.com/vladris/llm-book/blob/b1bec6803bbf3c3f44089c9eba811adb2a7ba156/code/02/22.py"
+    },
+    "618149494": {
+        "score": 1.0,
+        "name": "basic_ChatGPT_api.ipynb",
+        "url": "https://github.com/daveaingram/all-about-chatgpt",
+        "file_url": "https://github.com/daveaingram/all-about-chatgpt/blob/351a84774d00b036a347d8ae6e3442f1c20ee5ed/basic_ChatGPT_api.ipynb"
+    },
+    "595832198": {
+        "score": 1.0,
+        "name": "openai.mdx",
+        "url": "https://github.com/Helicone/helicone",
+        "file_url": "https://github.com/Helicone/helicone/blob/143bbffb9198909ea46e2301af2ce4d8e68beec1/docs/getting-started/integration-method/openai.mdx"
+    },
+    "674424428": {
+        "score": 1.0,
+        "name": "mm-vet_evaluator.ipynb",
+        "url": "https://github.com/yuweihao/MM-Vet",
+        "file_url": "https://github.com/yuweihao/MM-Vet/blob/304b989be96da0edc0fe04e690ba859ae248e111/mm-vet_evaluator.ipynb"
+    },
+    "611921752": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/DonGuillotine/chatGPT_whisper_AI_voice_assistant",
+        "file_url": "https://github.com/DonGuillotine/chatGPT_whisper_AI_voice_assistant/blob/71c66495df40291c28d433bd4e49f30bf1beb738/main.py"
+    },
+    "650377372": {
+        "score": 1.0,
+        "name": "openai_client_quickstart.ipynb",
+        "url": "https://github.com/wandb/weave",
+        "file_url": "https://github.com/wandb/weave/blob/6c2f5961a772e329f5cff16234ac36e1fdcbbefc/examples/prompts/llm_monitoring/openai_client_quickstart.ipynb"
+    },
+    "624885388": {
+        "score": 1.0,
+        "name": "autocrit.py",
+        "url": "https://github.com/CarperAI/autocrit",
+        "file_url": "https://github.com/CarperAI/autocrit/blob/e283f12cc3c472876e9e671f31dce90907808169/autocrit.py"
+    },
+    "609357578": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/wenmin-wu/chatgpt-web",
+        "file_url": "https://github.com/wenmin-wu/chatgpt-web/blob/156e141de3ccbef6b1bfd5499fa1761d6e1d0f76/main.py"
+    },
+    "633282528": {
+        "score": 1.0,
+        "name": "whisper_dictation.py",
+        "url": "https://github.com/themanyone/whisper_dictation",
+        "file_url": "https://github.com/themanyone/whisper_dictation/blob/38b0c192ea6cb6134ae4dd01130c6abd89fa61f8/whisper_dictation.py"
+    },
+    "715585025": {
+        "score": 1.0,
+        "name": "language_models.py",
+        "url": "https://github.com/tmlr-group/DeepInception",
+        "file_url": "https://github.com/tmlr-group/DeepInception/blob/9ffde85e57695c3a2dc02ce561320413bfea4335/language_models.py"
+    },
+    "659163102": {
+        "score": 1.0,
+        "name": "Research.md",
+        "url": "https://github.com/ZacharyZcR/SecGPT",
+        "file_url": "https://github.com/ZacharyZcR/SecGPT/blob/3966ba981c1880ea7ea875bf75ac1e471fea0b15/doc/Research.md"
+    },
+    "613746868": {
+        "score": 1.0,
+        "name": "chat.py",
+        "url": "https://github.com/thinksoso/MedChat",
+        "file_url": "https://github.com/thinksoso/MedChat/blob/6d6fcf98f7ddaabeda0770a754c2fbdb00b9c4f3/chat.py"
+    },
+    "108836221": {
+        "score": 1.0,
+        "name": "generate-random-questions-v2.ipynb",
+        "url": "https://github.com/mesolitica/malaysian-dataset",
+        "file_url": "https://github.com/mesolitica/malaysian-dataset/blob/fbf528159c6143a3f9f4fba8707aa18ecd3cfbc3/question-answer/chatgpt4-synthetic-malaysian-qa/generate-random-questions-v2.ipynb"
+    },
+    "707134916": {
+        "score": 1.0,
+        "name": "main2.py",
+        "url": "https://github.com/RealKai42/mbti-solver",
+        "file_url": "https://github.com/RealKai42/mbti-solver/blob/00631236530b003e7c8c8a78f7f57602d6b5515d/main2.py"
+    },
+    "691541425": {
+        "score": 1.0,
+        "name": "About gpt",
+        "url": "https://github.com/HengYuh/git",
+        "file_url": "https://github.com/HengYuh/git/blob/312714d0b0074420582b9664a5b72c77562c7f1e/About%20gpt"
+    },
+    "730259473": {
+        "score": 1.0,
+        "name": "gpt_generate.py",
+        "url": "https://github.com/Chat-3D/Chat-3D-v2",
+        "file_url": "https://github.com/Chat-3D/Chat-3D-v2/blob/e74d60333a5ab5b5c66198771b93a646b26a9001/others/gpt_generate.py"
+    },
+    "708405459": {
+        "score": 1.0,
+        "name": "step03_summarize_chunks.py",
+        "url": "https://github.com/daveshap/Hierarchical_Document_Representation",
+        "file_url": "https://github.com/daveshap/Hierarchical_Document_Representation/blob/d36eb614c3d2ff6e70ac2c74962741b5ad88bc91/step03_summarize_chunks.py"
+    },
+    "675917448": {
+        "score": 1.0,
+        "name": "xquad.eval.py",
+        "url": "https://github.com/NJUNLP/x-LLM",
+        "file_url": "https://github.com/NJUNLP/x-LLM/blob/0bc91a2964ec9b1bba82264fa49009db137e14fc/eval/xquad.eval.py"
+    },
+    "623500742": {
+        "score": 1.0,
+        "name": "03_ChatCompletion_api.ipynb",
+        "url": "https://github.com/Azure/azure-openai-samples",
+        "file_url": "https://github.com/Azure/azure-openai-samples/blob/34b9143946a9df9952080cdccb0b4202d80a4199/quick_start/03_ChatCompletion_api.ipynb"
+    },
+    "343498076": {
+        "score": 1.0,
+        "name": "sfwAI.py",
+        "url": "https://github.com/MekhyW/COOKIEBOT-Telegram-Group-Bot",
+        "file_url": "https://github.com/MekhyW/COOKIEBOT-Telegram-Group-Bot/blob/c98ed400895ff22b3c90e66ffca13b23f0e626d7/Testing/sfwAI.py"
+    },
+    "652295028": {
+        "score": 1.0,
+        "name": "chat_gpt_service.py",
+        "url": "https://github.com/TamerinTECH/VoiceBotChatGPT-RaspberryPI",
+        "file_url": "https://github.com/TamerinTECH/VoiceBotChatGPT-RaspberryPI/blob/fe46c81811fc7a462af31adffda1a2cc96ddcc10/chat_gpt_service.py"
+    },
+    "649440850": {
+        "score": 1.0,
+        "name": "GPT4 Eval.ipynb",
+        "url": "https://github.com/my-other-github-account/llm-humaneval-benchmarks",
+        "file_url": "https://github.com/my-other-github-account/llm-humaneval-benchmarks/blob/da43bc4c8f529c043123925adf6e51bd2483e6dd/Proprietary%20Model%20Evaluations/GPT4%20Eval.ipynb"
+    },
+    "664446159": {
+        "score": 1.0,
+        "name": "gpt_helper.py",
+        "url": "https://github.com/sjchoi86/yet-another-gpt-tutorial",
+        "file_url": "https://github.com/sjchoi86/yet-another-gpt-tutorial/blob/4578c3611f37ada70a2852d46e4169c0aecaf14f/code/gpt_helper.py"
+    },
+    "673563774": {
+        "score": 1.0,
+        "name": "tracing_without_langchain.ipynb",
+        "url": "https://github.com/langchain-ai/langsmith-cookbook",
+        "file_url": "https://github.com/langchain-ai/langsmith-cookbook/blob/378432555aa01ccf2ae8bb24ced29c8cac7b6ad5/tracing-examples/traceable/tracing_without_langchain.ipynb"
+    },
+    "650980216": {
+        "score": 1.0,
+        "name": "eval_langperf.py",
+        "url": "https://github.com/OpenGVLab/LAMM",
+        "file_url": "https://github.com/OpenGVLab/LAMM/blob/65be88da4a7441e43bf12fff4df14842180999d5/src/tools/ChEF/eval_langperf.py"
+    },
+    "511118169": {
+        "score": 1.0,
+        "name": "Invoice_Processing_with_Amazon_Textract_and_and_GPT_4.ipynb",
+        "url": "https://github.com/PradipNichite/Youtube-Tutorials",
+        "file_url": "https://github.com/PradipNichite/Youtube-Tutorials/blob/907ce2ebacef5ffa0c18c26156c37f63c9214eae/Invoice_Processing_with_Amazon_Textract_and_and_GPT_4.ipynb"
+    },
+    "603495071": {
+        "score": 1.0,
+        "name": "py.py",
+        "url": "https://github.com/timothywarner/chatgptclass",
+        "file_url": "https://github.com/timothywarner/chatgptclass/blob/f60d36eeecd5aa553f707932dd404746bb467fff/src/py.py"
+    },
+    "710308843": {
+        "score": 1.0,
+        "name": "09_gpt_api_access.ipynb",
+        "url": "https://github.com/yhilpisch/aifin",
+        "file_url": "https://github.com/yhilpisch/aifin/blob/97bac9d5c3111c6e5b75147e3d7640b4dcf0c5b3/code/09_gpt_api_access.ipynb"
+    },
+    "707845864": {
+        "score": 1.0,
+        "name": "notebook-google-collab",
+        "url": "https://github.com/Gbennemann/IA-Generativa-em-um-Pipeline-de-ETL-com-Python",
+        "file_url": "https://github.com/Gbennemann/IA-Generativa-em-um-Pipeline-de-ETL-com-Python/blob/f084ac45e18d0dbb62c3033742050e5098b781bb/notebook-google-collab"
+    },
+    "164413619": {
+        "score": 1.0,
+        "name": "TextCommandParser.py",
+        "url": "https://github.com/eliranwong/UniqueBible",
+        "file_url": "https://github.com/eliranwong/UniqueBible/blob/d57bbca91cea43f98294469f2e91344be8651a65/util/TextCommandParser.py"
+    },
+    "654774893": {
+        "score": 1.0,
+        "name": "quickstart.ipynb",
+        "url": "https://github.com/agentic-ai/enact",
+        "file_url": "https://github.com/agentic-ai/enact/blob/05fbc8ef26b737df1c2f3708cce51d58e9d07fd6/examples/quickstart.ipynb"
+    },
+    "674695802": {
+        "score": 1.0,
+        "name": "2. \u63d0\u793a\u8bcd\u6280\u5de7\uff5c\u83b7\u5f97\u4ee3\u7801\u53cb\u597d\u7684\u5927\u6a21\u578b\u56de\u590d.ipynb",
+        "url": "https://github.com/chaocai2001/gpt_in_practice",
+        "file_url": "https://github.com/chaocai2001/gpt_in_practice/blob/822cf4f59863986a77fdd7172109c6dcb18aab23/2.%20%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E5%B7%A7%EF%BD%9C%E8%8E%B7%E5%BE%97%E4%BB%A3%E7%A0%81%E5%8F%8B%E5%A5%BD%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E5%A4%8D.ipynb"
+    },
+    "103808346": {
+        "score": 1.0,
+        "name": "2023-10-17-openai_function_calling_with_switchbot_api.md",
+        "url": "https://github.com/tykimos/tykimos.github.io",
+        "file_url": "https://github.com/tykimos/tykimos.github.io/blob/d37b0f854709ee357bfbe388ccf3db12485f5d85/_posts/2023-10-17-openai_function_calling_with_switchbot_api.md"
+    },
+    "634430755": {
+        "score": 1.0,
+        "name": "iterative.ipynb",
+        "url": "https://github.com/ConnectAI-E/Prompt-Engineering-Tutior",
+        "file_url": "https://github.com/ConnectAI-E/Prompt-Engineering-Tutior/blob/8e1a48d1c49649e7b5b1a93515b7ac84e3e8c367/python/en/iterative.ipynb"
+    },
+    "627277998": {
+        "score": 1.0,
+        "name": "custom_chatbot.ipynb",
+        "url": "https://github.com/xiaowuc2/ChatGPT-Python-Applications",
+        "file_url": "https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/265f11c87c8093271d4f2323ad12142cc517136d/chatbot/custom_chatbot.ipynb"
+    },
+    "626809451": {
+        "score": 1.0,
+        "name": "logger.py",
+        "url": "https://github.com/yachty66/openai_pricing_logger",
+        "file_url": "https://github.com/yachty66/openai_pricing_logger/blob/f83c8b125fa1449a4209bb994376efa315952e19/build/lib/openai_pricing_logger/logger.py"
+    },
+    "620934879": {
+        "score": 1.0,
+        "name": "v3.py",
+        "url": "https://github.com/parthgupta1208/VoiceCraft",
+        "file_url": "https://github.com/parthgupta1208/VoiceCraft/blob/8d81751cb40f1e644f606ce7df456426c77d78d9/v3.py"
+    },
+    "642199761": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/senseibence/RPi-camera-glasses",
+        "file_url": "https://github.com/senseibence/RPi-camera-glasses/blob/ab4bd6c83eff603ae8b9a2117311ba15262eb966/main.py"
+    },
+    "636527298": {
+        "score": 1.0,
+        "name": "cleaner.py",
+        "url": "https://github.com/emmethalm/tuneAI",
+        "file_url": "https://github.com/emmethalm/tuneAI/blob/597c28c9649489540bca4eec135fc675d00f6baf/scripts/cleaner.py"
+    },
+    "616067606": {
+        "score": 1.0,
+        "name": "chat.py",
+        "url": "https://github.com/resautu/chat-with-Elysia",
+        "file_url": "https://github.com/resautu/chat-with-Elysia/blob/f1e71983fa22a7c9c9dbdabb9c3b5e39ac26de74/chat.py"
+    },
+    "620493348": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/IntrinsicLabsAI/summarizer-app",
+        "file_url": "https://github.com/IntrinsicLabsAI/summarizer-app/blob/d819b209822094e2e3c8be2ba22b1567a107d922/main.py"
+    },
+    "650415781": {
+        "score": 1.0,
+        "name": "column_recall.py",
+        "url": "https://github.com/bigbigwatermalon/C3SQL",
+        "file_url": "https://github.com/bigbigwatermalon/C3SQL/blob/3fb33a61e458f4f67c2b8b59c1c4b4e20b4a7461/src/column_recall.py"
+    },
+    "627313198": {
+        "score": 1.0,
+        "name": "react-prompt.py",
+        "url": "https://github.com/kimtth/azure-openai-llm-vector-langchain",
+        "file_url": "https://github.com/kimtth/azure-openai-llm-vector-langchain/blob/5f1720d82f6f43bebeb7d53c2389ca6d1083e2a3/code/tree-of-thought/react-prompt.py"
+    },
+    "668652251": {
+        "score": 1.0,
+        "name": "01 chatgpt simple",
+        "url": "https://github.com/vanshikaamahajan/Chatgpt-apis",
+        "file_url": "https://github.com/vanshikaamahajan/Chatgpt-apis/blob/f0161a43f23351232b584764328e21b383f96e00/01%20chatgpt%20simple"
+    },
+    "629056454": {
+        "score": 1.0,
+        "name": "llm_utils.py",
+        "url": "https://github.com/Nick2Bis/AutoGTP",
+        "file_url": "https://github.com/Nick2Bis/AutoGTP/blob/10cd0f3362ad6c86eefe7fc2a1f276ca49af98fe/autogpt/llm_utils.py"
+    },
+    "621148052": {
+        "score": 1.0,
+        "name": "openai_api.py",
+        "url": "https://github.com/reriiasu/speech-to-text",
+        "file_url": "https://github.com/reriiasu/speech-to-text/blob/d4b3ccf2c65e5fac4d3e1005685379d6a1e8368b/speech_to_text/openai_api.py"
+    },
+    "229525871": {
+        "score": 1.0,
+        "name": "hectooorGPT.py",
+        "url": "https://github.com/NightRoadIx/Piton",
+        "file_url": "https://github.com/NightRoadIx/Piton/blob/6af40df60dd13bd54d46e5b705bcfea6692905d1/hectooorGPT.py"
+    },
+    "624895584": {
+        "score": 1.0,
+        "name": "base.py",
+        "url": "https://github.com/DjangoEx/django-expert-bot",
+        "file_url": "https://github.com/DjangoEx/django-expert-bot/blob/9fbdbb8af459ab391481585ae04e6b8dfa8e3a06/base.py"
+    },
+    "622019840": {
+        "score": 1.0,
+        "name": "core.py",
+        "url": "https://github.com/grapeot/VoiceNoteTaker",
+        "file_url": "https://github.com/grapeot/VoiceNoteTaker/blob/c4b950a8b85c24974d3735a1dbc9edbeca1aee72/core.py"
+    },
+    "645085330": {
+        "score": 1.0,
+        "name": "call_gpt.py",
+        "url": "https://github.com/Hxyou/IdealGPT",
+        "file_url": "https://github.com/Hxyou/IdealGPT/blob/d8081bc4407a4e17e06fbeeb594f3c6ffbf51855/chat/call_gpt.py"
+    },
+    "43810226": {
+        "score": 1.0,
+        "name": "databases-and-large-language-models.md",
+        "url": "https://github.com/lawrennd/old_talks",
+        "file_url": "https://github.com/lawrennd/old_talks/blob/8f2c177061a429b22e6a11a62d8c9e84bd60877d/_data-science/includes/databases-and-large-language-models.md"
+    },
+    "740774265": {
+        "score": 1.0,
+        "name": "utils.py",
+        "url": "https://github.com/NJUNLP/ReNeLLM",
+        "file_url": "https://github.com/NJUNLP/ReNeLLM/blob/bd25628de08da55299e50ad3f8ddba518549e87d/utils.py"
+    },
+    "683496838": {
+        "score": 1.0,
+        "name": "README.md",
+        "url": "https://github.com/KoljaB/RealtimeTTS",
+        "file_url": "https://github.com/KoljaB/RealtimeTTS/blob/df62a020d5d7f665fae4a427e23ded8d1188756c/README.md"
+    },
+    "699724447": {
+        "score": 1.0,
+        "name": "gpt.py",
+        "url": "https://github.com/sradc/MakeAgents",
+        "file_url": "https://github.com/sradc/MakeAgents/blob/aff62b1d4dede72496d6c766b56e4e52f4230346/make_agents/gpt.py"
+    },
+    "693995290": {
+        "score": 1.0,
+        "name": "GPT_Function_Calling_Info.txt",
+        "url": "https://github.com/arben777/gpt-4-function-converter",
+        "file_url": "https://github.com/arben777/gpt-4-function-converter/blob/c4c876e89f42e4a50071de8dcbb9f180e2d425f4/GPT_Function_Calling_Info.txt"
+    },
+    "500904904": {
+        "score": 1.0,
+        "name": "7_gpt_demonstration.ipynb",
+        "url": "https://github.com/sekhansen/text_algorithms_econ",
+        "file_url": "https://github.com/sekhansen/text_algorithms_econ/blob/71439531f00a25fa307685df5215cb4a4efec0ea/notebooks/7_gpt_demonstration.ipynb"
+    },
+    "719907955": {
+        "score": 1.0,
+        "name": "demo.py",
+        "url": "https://github.com/DAMO-NLP-SG/contrastive-cot",
+        "file_url": "https://github.com/DAMO-NLP-SG/contrastive-cot/blob/336f5e6eb2508c5bae362d6a2924e055b1c11eed/demo.py"
+    },
+    "620730114": {
+        "score": 1.0,
+        "name": "rag-openai-qdrant.ipynb",
+        "url": "https://github.com/qdrant/examples",
+        "file_url": "https://github.com/qdrant/examples/blob/67c35ed8b75cdf2d19ac07452da48532811775cf/rag-openai-qdrant/rag-openai-qdrant.ipynb"
+    },
+    "697100198": {
+        "score": 1.0,
+        "name": "LLM_Generation_Functions.py",
+        "url": "https://github.com/stanford-futuredata/ARES",
+        "file_url": "https://github.com/stanford-futuredata/ARES/blob/75c3e346f9247bc48f77e72607d809f01007585a/LLM-as-a-Judge_Adaptation/LLM_Generation_Functions.py"
+    },
+    "633641528": {
+        "score": 1.0,
+        "name": "__init__.py",
+        "url": "https://github.com/jiggy-ai/pydantic-chatcompletion",
+        "file_url": "https://github.com/jiggy-ai/pydantic-chatcompletion/blob/c4f8a57696283e5c608e42576ee80915701e9e9c/pydantic_chatcompletion/__init__.py"
+    },
+    "580110921": {
+        "score": 1.0,
+        "name": "engines.py",
+        "url": "https://github.com/dki-lab/Pangu",
+        "file_url": "https://github.com/dki-lab/Pangu/blob/81c2908bd0ec3b387d099fa0e566a216e5392dec/LLM_prompts/engines.py"
+    },
+    "694529087": {
+        "score": 1.0,
+        "name": "messages.controller.js",
+        "url": "https://github.com/aaayushh7/chad-bot",
+        "file_url": "https://github.com/aaayushh7/chad-bot/blob/e8109be6fb812c19ac21977f957c0f4bdd3e4679/controller/messages.controller.js"
+    },
+    "633031731": {
+        "score": 1.0,
+        "name": "cli.py",
+        "url": "https://github.com/lusob/maiker-cli",
+        "file_url": "https://github.com/lusob/maiker-cli/blob/97c1c5807cd6a2c4cebb83a2e6d6f8f4377ac3e9/maiker/cli.py"
+    },
+    "619097765": {
+        "score": 1.0,
+        "name": "demo.ipynb",
+        "url": "https://github.com/patrick-tssn/LM-Research-Hub",
+        "file_url": "https://github.com/patrick-tssn/LM-Research-Hub/blob/21507c28b59c48678af8112d5abe59d188644b53/Practices/API/Azure/demo.ipynb"
+    },
+    "631636147": {
+        "score": 1.0,
+        "name": "29-text-summarization-tool.ipynb",
+        "url": "https://github.com/solygambas/python-openai-projects",
+        "file_url": "https://github.com/solygambas/python-openai-projects/blob/3437bdf0e1afd2e5ad01e7f31947a4c485da4780/playground/29-text-summarization-tool.ipynb"
+    },
+    "620994581": {
+        "score": 1.0,
+        "name": "pico.py",
+        "url": "https://github.com/sgreenb/pico_assistant",
+        "file_url": "https://github.com/sgreenb/pico_assistant/blob/b50680f197dbd0e3ff4f7345153df74a21831661/pico.py"
+    },
+    "703213640": {
+        "score": 1.0,
+        "name": "run_baseline_lm.py",
+        "url": "https://github.com/AkariAsai/self-rag",
+        "file_url": "https://github.com/AkariAsai/self-rag/blob/12afe0bac2c894e9fbf255960c03d2327600f031/retrieval_lm/run_baseline_lm.py"
+    },
+    "640650064": {
+        "score": 1.0,
+        "name": "chatgpt.py",
+        "url": "https://github.com/rogeriochaves/bmo",
+        "file_url": "https://github.com/rogeriochaves/bmo/blob/607ba53381e02a5e705d429bc4fd6701bbb1ba30/lib/chatgpt.py"
+    },
+    "675824134": {
+        "score": 1.0,
+        "name": "gpt4_compare.py",
+        "url": "https://github.com/facebookresearch/RLCD",
+        "file_url": "https://github.com/facebookresearch/RLCD/blob/fac0b8fe2284637bdb5ffa11a3e3df136952d288/scripts/gpt4_compare.py"
+    },
+    "483502469": {
+        "score": 1.0,
+        "name": "openai_api.md",
+        "url": "https://github.com/Ascend/ModelZoo-PyTorch",
+        "file_url": "https://github.com/Ascend/ModelZoo-PyTorch/blob/6a2804a358a5b18e3dac1ab902f41f88e240b00f/PyTorch/built-in/foundation/LLaMA-13B/docs/openai_api.md"
+    },
+    "604482243": {
+        "score": 1.0,
+        "name": "api_util_openai.py",
+        "url": "https://github.com/dclin/gptlab-streamlit",
+        "file_url": "https://github.com/dclin/gptlab-streamlit/blob/d9382e739be19c766a40d9e7432806d3d8aafd15/app/api_util_openai.py"
+    },
+    "675985746": {
+        "score": 1.0,
+        "name": "Helper.ipynb",
+        "url": "https://github.com/airtai/faststream-gen",
+        "file_url": "https://github.com/airtai/faststream-gen/blob/6dc69af7609ddff47ac24cdcf5ec1213ad719634/nbs/Helper.ipynb"
+    },
+    "711172916": {
+        "score": 1.0,
+        "name": "generation.py",
+        "url": "https://github.com/dmort27/chatgpts-wugs",
+        "file_url": "https://github.com/dmort27/chatgpts-wugs/blob/81e0d192a876ee24bf5fb07bbac6d93b657aa067/chatgpt/generation.py"
+    },
+    "601845215": {
+        "score": 1.0,
+        "name": "langchain_capabilities.ipynb",
+        "url": "https://github.com/shauryr/S2QA",
+        "file_url": "https://github.com/shauryr/S2QA/blob/595ea70305347a5c43025640bd53ea396ff109bc/notebooks/langchain_capabilities.ipynb"
+    },
+    "504765701": {
+        "score": 1.0,
+        "name": "use_your_own_openAI_token.py",
+        "url": "https://github.com/TexteaInc/funix",
+        "file_url": "https://github.com/TexteaInc/funix/blob/3f42e22ae5fefd7b462c6a895c5cb22e2e7db52b/examples/AI/use_your_own_openAI_token.py"
+    },
+    "618966604": {
+        "score": 1.0,
+        "name": "module_openai.py",
+        "url": "https://github.com/woensug-choi/ChatGee",
+        "file_url": "https://github.com/woensug-choi/ChatGee/blob/a0bc9ce05b510df4593fc8d20b9ab13d523fa408/chatgee/base/module_openai.py"
+    },
+    "574980263": {
+        "score": 1.0,
+        "name": "gpt_4v.py",
+        "url": "https://github.com/sifue/chatgpt-slackbot",
+        "file_url": "https://github.com/sifue/chatgpt-slackbot/blob/f690abc2044d30f13189addd6dabd6fda3d2e3c2/opt/gpt_4v.py"
+    },
+    "631294656": {
+        "score": 1.0,
+        "name": "step02_synthesize_actions.py",
+        "url": "https://github.com/daveshap/RLHI",
+        "file_url": "https://github.com/daveshap/RLHI/blob/3be9ca3d0e1b73f4b384e45e5f5a726cd4cb576b/Experiments/Dataset_01_HI-PAD/step02_synthesize_actions.py"
+    },
+    "611719985": {
+        "score": 1.0,
+        "name": "zzz_automation_example.py",
+        "url": "https://github.com/eliranwong/ChatGPT-GUI",
+        "file_url": "https://github.com/eliranwong/ChatGPT-GUI/blob/d281e96038db388aa75e1f3269c7e0d9143ee64f/plugins/zzz_automation_example.py"
+    },
+    "627910586": {
+        "score": 1.0,
+        "name": "ai_ask_doc.sql",
+        "url": "https://github.com/linsoss/postgres-gpt",
+        "file_url": "https://github.com/linsoss/postgres-gpt/blob/3509a3eed838929eb6a9b531804aebc60602e717/postgres_gpt/ai_ask_doc.sql"
+    },
+    "616489990": {
+        "score": 1.0,
+        "name": "02_diet.ipynb",
+        "url": "https://github.com/yukinaga/chatgpt_api",
+        "file_url": "https://github.com/yukinaga/chatgpt_api/blob/5cdc7d2fe7b7a3f9ebd564c69d08a89efdaa1b96/section_4/02_diet.ipynb"
+    },
+    "677632438": {
+        "score": 1.0,
+        "name": "openai_api.md",
+        "url": "https://github.com/declare-lab/red-instruct",
+        "file_url": "https://github.com/declare-lab/red-instruct/blob/54d60b34bd4cd9f94a562b56af0a66a0bb97969f/starling_training/docs/openai_api.md"
+    },
+    "612770723": {
+        "score": 1.0,
+        "name": "streams.ipynb",
+        "url": "https://github.com/tmgthb/Stream-responses",
+        "file_url": "https://github.com/tmgthb/Stream-responses/blob/37aa174f21f0b9023acecebe1fc65dc589081564/streams.ipynb"
+    },
+    "642932027": {
+        "score": 1.0,
+        "name": "llm_code.py",
+        "url": "https://github.com/radoshi/llm-code",
+        "file_url": "https://github.com/radoshi/llm-code/blob/3f7cfb1249d6818103a44efe96306b80377ed2e7/llm_code/llm_code.py"
+    },
+    "648878479": {
+        "score": 1.0,
+        "name": "chatgpt_agent.py",
+        "url": "https://github.com/Hansimov/GPT-Agents",
+        "file_url": "https://github.com/Hansimov/GPT-Agents/blob/5cf39959ab1b74ef018d74f655e1aa9f19c7f9ed/agents/chatgpt_agent.py"
+    },
+    "637591294": {
+        "score": 1.0,
+        "name": "08 - ChatApp.ipynb",
+        "url": "https://github.com/ttaulli/Generative-AI-for-Developers",
+        "file_url": "https://github.com/ttaulli/Generative-AI-for-Developers/blob/394f74a731a1f1d190dd6fdcdff1795e6aa7e66e/08%20-%20ChatApp.ipynb"
+    },
+    "666104212": {
+        "score": 1.0,
+        "name": "basic.py.README.md",
+        "url": "https://github.com/nschlaepfer/skitz",
+        "file_url": "https://github.com/nschlaepfer/skitz/blob/a7e65720e96ae889cd51630a53b366ecb031a4f4/basic.py.README.md"
+    },
+    "537234525": {
+        "score": 1.0,
+        "name": "core.py",
+        "url": "https://github.com/IBM/nl2ltl",
+        "file_url": "https://github.com/IBM/nl2ltl/blob/b2ab734a3a6319257e3e2701b9aaebcc92e8edaf/nl2ltl/engines/gpt/core.py"
+    },
+    "672816815": {
+        "score": 1.0,
+        "name": "openai.py",
+        "url": "https://github.com/myscale/Retrieval-QA-Benchmark",
+        "file_url": "https://github.com/myscale/Retrieval-QA-Benchmark/blob/1b9adf00d406e8f49b62a0dab8f3e2642cb58ea6/retrieval_qa_benchmark/models/openai.py"
+    },
+    "668565841": {
+        "score": 1.0,
+        "name": "chat.mdx",
+        "url": "https://github.com/llamaapi/llama-api-docs",
+        "file_url": "https://github.com/llamaapi/llama-api-docs/blob/2acb9c1390f7944ca975fea492d6b70df67c60eb/essentials/chat.mdx"
+    },
+    "679564879": {
+        "score": 1.0,
+        "name": "utils.py",
+        "url": "https://github.com/OpenRobotLab/PointLLM",
+        "file_url": "https://github.com/OpenRobotLab/PointLLM/blob/d2368d2fc8b750a9401e2402d462e527b9c0e149/pointllm/eval/utils.py"
+    },
+    "729359709": {
+        "score": 1.0,
+        "name": "gen_attributes.ipynb",
+        "url": "https://github.com/orrzohar/FOMO",
+        "file_url": "https://github.com/orrzohar/FOMO/blob/6df2dca8e9f051261dc7be89d5a8ece4f2642515/gen_attributes.ipynb"
+    },
+    "686096500": {
+        "score": 1.0,
+        "name": "single-image-description",
+        "url": "https://github.com/theSamyak/get-image-description",
+        "file_url": "https://github.com/theSamyak/get-image-description/blob/ef7ec2cafcc07db9ed5abb706d979aab19d96eac/single-image-description"
+    },
+    "102676540": {
+        "score": 1.0,
+        "name": "llm.py",
+        "url": "https://github.com/makespacemadrid/GLaDOS",
+        "file_url": "https://github.com/makespacemadrid/GLaDOS/blob/173abb7106f809f1e5cc2dd4042380530dce746d/Bots/dev1/llm.py"
+    },
+    "208856340": {
+        "score": 1.0,
+        "name": "L6_student.ipynb",
+        "url": "https://github.com/piegu/language-models",
+        "file_url": "https://github.com/piegu/language-models/blob/422d243343ee4aee17144172f7679e325150ece0/chatgpt/deeplearning_ai_chatgpt_building_system_course/notebooks/L6_student.ipynb"
+    },
+    "615256057": {
+        "score": 1.0,
+        "name": "04-API-interaction-python.qmd",
+        "url": "https://github.com/j-jayes/Who-is-who",
+        "file_url": "https://github.com/j-jayes/Who-is-who/blob/f40a461c6f114ea01eec482455d264a8b96ae7c0/code/04-API-interaction-python.qmd"
+    },
+    "683899051": {
+        "score": 1.0,
+        "name": "0A_PromptEngg.ipynb",
+        "url": "https://github.com/sunlight0102/azure-openai",
+        "file_url": "https://github.com/sunlight0102/azure-openai/blob/d548696d939197cb170506560a278e6cea2073c2/Workshop/0A_PromptEngg.ipynb"
+    },
+    "650169463": {
+        "score": 1.0,
+        "name": "views.py",
+        "url": "https://github.com/ianwolf99/WOLFGPT",
+        "file_url": "https://github.com/ianwolf99/WOLFGPT/blob/8197f4147aa4c81c86cb777b0463c4411d574979/assistant/views.py"
+    },
+    "656132101": {
+        "score": 1.0,
+        "name": "nakama.py",
+        "url": "https://github.com/kujirahand/book-generativeai-sample",
+        "file_url": "https://github.com/kujirahand/book-generativeai-sample/blob/a7669d10ec80ca0ce43bc3c266b9a704ae4b86a3/src/ch3/nakama.py"
+    },
+    "470320987": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/isaacfab/cmu-17-691",
+        "file_url": "https://github.com/isaacfab/cmu-17-691/blob/1943e34deac45d323c0ea7a64629d8e8d4c7f11f/recitation/mlapis/OpenAI/main.py"
+    },
+    "618775577": {
+        "score": 1.0,
+        "name": "fact_checker.py",
+        "url": "https://github.com/1712n/dn-institute",
+        "file_url": "https://github.com/1712n/dn-institute/blob/041a2b8fda955326d9f6ac4df65090b6131c2662/tools/fact_checker.py"
+    },
+    "680176469": {
+        "score": 1.0,
+        "name": "gpt.py",
+        "url": "https://github.com/UW-Madison-DSI/news-tagging",
+        "file_url": "https://github.com/UW-Madison-DSI/news-tagging/blob/5d2ac3b1eef01d041ad03e961e53e0c2204a8045/gpt.py"
+    },
+    "644712518": {
+        "score": 1.0,
+        "name": "alfworld.ipynb",
+        "url": "https://github.com/haotiansun14/AdaPlanner",
+        "file_url": "https://github.com/haotiansun14/AdaPlanner/blob/58feaec8bf7e45bc9476d45698ca634c80637ffd/ALFWorld/alfworld.ipynb"
+    },
+    "580339838": {
+        "score": 1.0,
+        "name": "query_gpt2.py",
+        "url": "https://github.com/amit-sharma/chatgpt-causality-pairs",
+        "file_url": "https://github.com/amit-sharma/chatgpt-causality-pairs/blob/a2ee04cc993a37d66cc7290b033da217751611da/actual-causality/query_gpt2.py"
+    },
+    "681448128": {
+        "score": 1.0,
+        "name": "llm_feedback_rankings.py",
+        "url": "https://github.com/Hritikbansal/sparse_feedback",
+        "file_url": "https://github.com/Hritikbansal/sparse_feedback/blob/6306ffb5201d6943a4973cf6233536af1aaa4e53/scripts/llm_feedback_rankings.py"
+    },
+    "751670060": {
+        "score": 1.0,
+        "name": "01 chatgpt simple",
+        "url": "https://github.com/DhananjayDogne/nit_b_chatbot_2",
+        "file_url": "https://github.com/DhananjayDogne/nit_b_chatbot_2/blob/ca453a3bd3e18acae01fdee6b457ae85adb09938/chatbot/01%20chatgpt%20simple"
+    },
+    "666521745": {
+        "score": 1.0,
+        "name": "mlflow-eval-retrieval.ipynb",
+        "url": "https://github.com/djliden/llmops-examples",
+        "file_url": "https://github.com/djliden/llmops-examples/blob/b497b9110d6bae16e1fdcda6069a777d61cba884/mlflow-eval-retrieval.ipynb"
+    },
+    "667431359": {
+        "score": 1.0,
+        "name": "file_query.py",
+        "url": "https://github.com/zhenglw02/chat-jarvis",
+        "file_url": "https://github.com/zhenglw02/chat-jarvis/blob/6612157de5bdbbf7cd25de406112451b445a2dd0/plugin/file_query.py"
+    },
+    "678151529": {
+        "score": 1.0,
+        "name": "midjourney_turbo.py",
+        "url": "https://github.com/chazzjimel/WeChat-AIChatbot-WinOnly",
+        "file_url": "https://github.com/chazzjimel/WeChat-AIChatbot-WinOnly/blob/b159c57c8ffecf26b30f214c515fd9fa1310ecc6/plugins/midjourney_turbo/midjourney_turbo.py"
+    },
+    "672545033": {
+        "score": 1.0,
+        "name": "chat_response.py",
+        "url": "https://github.com/art-from-the-machine/Mantella",
+        "file_url": "https://github.com/art-from-the-machine/Mantella/blob/d9336179d718a6bf46571b351a80329486cdf677/src/chat_response.py"
+    },
+    "236720515": {
+        "score": 1.0,
+        "name": "4-inferring.ipynb",
+        "url": "https://github.com/nickprock/appunti_data_science",
+        "file_url": "https://github.com/nickprock/appunti_data_science/blob/369398d7659ac48b96c13876b79d203b7d985d0d/prompt-engineering-notes/4-inferring.ipynb"
+    },
+    "151646765": {
+        "score": 1.0,
+        "name": "OpenAICheatsheet",
+        "url": "https://github.com/sussahoo/MachineLearningBasics",
+        "file_url": "https://github.com/sussahoo/MachineLearningBasics/blob/54f3e4639222511533e528ef9c806c538d5cea76/OpenAICheatsheet"
+    },
+    "648865231": {
+        "score": 1.0,
+        "name": "util.py",
+        "url": "https://github.com/Ying1123/llm-caching-multiplexing",
+        "file_url": "https://github.com/Ying1123/llm-caching-multiplexing/blob/2dc7e69b361be0c007708670ff044218ad8e6c10/real_run/util.py"
+    },
+    "468090356": {
+        "score": 1.0,
+        "name": "chat.py",
+        "url": "https://github.com/ARG-NCTU/oop-python-nycu",
+        "file_url": "https://github.com/ARG-NCTU/oop-python-nycu/blob/eab8550de0db6647f54d486fef18c84644a7ea4b/network/chat.py"
+    },
+    "648118246": {
+        "score": 1.0,
+        "name": "openai_api.py",
+        "url": "https://github.com/WenjinW/LATIN-Prompt",
+        "file_url": "https://github.com/WenjinW/LATIN-Prompt/blob/bacd14db1e79d90f73c07e6305e20827d7428002/utils/openai_api.py"
+    },
+    "625620486": {
+        "score": 1.0,
+        "name": "chat_llm.py",
+        "url": "https://github.com/Tiger767/Spiralflow",
+        "file_url": "https://github.com/Tiger767/Spiralflow/blob/b66023421990c0913aad6a621f831d7434809d7c/spiralflow/chat_llm.py"
+    },
+    "307453144": {
+        "score": 1.0,
+        "name": "openai_inference.py",
+        "url": "https://github.com/allenai/openpi-dataset",
+        "file_url": "https://github.com/allenai/openpi-dataset/blob/18bd1fd29129b7250783f3dd1af02366d851976b/v2.0/source/cluster/over_generate/openai_inference.py"
+    },
+    "620428566": {
+        "score": 1.0,
+        "name": "pe-chatgpt-adversarial.ipynb",
+        "url": "https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN",
+        "file_url": "https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN/blob/3d6ef6cbdada632390eee42c42b475fb621a15d9/notebooks/pe-chatgpt-adversarial.ipynb"
+    },
+    "675378348": {
+        "score": 1.0,
+        "name": "sample_openai.py",
+        "url": "https://github.com/llSourcell/Doctor-Dignity",
+        "file_url": "https://github.com/llSourcell/Doctor-Dignity/blob/3f2ffb6c892f13b50a708d05900d3227acb40ded/examples/rest/python/sample_openai.py"
+    },
+    "668524165": {
+        "score": 1.0,
+        "name": "qa_baseline_gpt.py",
+        "url": "https://github.com/hydrallm/llama-moe-v1",
+        "file_url": "https://github.com/hydrallm/llama-moe-v1/blob/6bd2cd69b051a93b11323425c3e1764356d1eef0/eval/qa_baseline_gpt.py"
+    },
+    "647247873": {
+        "score": 1.0,
+        "name": "qa_baseline_gpt.py",
+        "url": "https://github.com/Bavest/fin-llama",
+        "file_url": "https://github.com/Bavest/fin-llama/blob/8ba68f4b49753358ffbe693d38f2461c031625e3/eval/qa_baseline_gpt.py"
+    },
+    "668820575": {
+        "score": 1.0,
+        "name": "qa_baseline_gpt.py",
+        "url": "https://github.com/bryanchrist/llama2-70b",
+        "file_url": "https://github.com/bryanchrist/llama2-70b/blob/f41034c5de7c2155e1b8f48d6edb8c04449b1636/eval/qa_baseline_gpt.py"
+    },
+    "654730499": {
+        "score": 1.0,
+        "name": "qa_baseline_gpt.py",
+        "url": "https://github.com/bcdnlp/peer_eval",
+        "file_url": "https://github.com/bcdnlp/peer_eval/blob/0d0406640dc8683a0bc1cc1cdd161ce36bf9a7d5/eval/qa_baseline_gpt.py"
+    },
+    "744788179": {
+        "score": 1.0,
+        "name": "README_ES.md",
+        "url": "https://github.com/Uysim/Qwen-testing",
+        "file_url": "https://github.com/Uysim/Qwen-testing/blob/53ae8d8c34654ec2c9a2712f0e141913d1c1fad5/README_ES.md"
+    },
+    "741421430": {
+        "score": 1.0,
+        "name": "eval_gpt_review_3newclass.py",
+        "url": "https://github.com/RaptorZ99/apple_ferret",
+        "file_url": "https://github.com/RaptorZ99/apple_ferret/blob/9b611d26f38061973c9d75c219e49df8aa4fcd01/ferret/eval/eval_gpt_review_3newclass.py"
+    },
+    "747824184": {
+        "score": 1.0,
+        "name": "eval_gpt_review_3newclass.py",
+        "url": "https://github.com/abdur75648/ferret-finetuning",
+        "file_url": "https://github.com/abdur75648/ferret-finetuning/blob/d6858426bc5ee639bb210a2410c0327cc402a0f8/ferret/eval/eval_gpt_review_3newclass.py"
+    },
+    "645181828": {
+        "score": 1.0,
+        "name": "messages.py",
+        "url": "https://github.com/unicorndev99/SQL-ChatGPT",
+        "file_url": "https://github.com/unicorndev99/SQL-ChatGPT/blob/ac63da8357f0480308a87e04a35c0605cad75b80/api/app/api/utils/messages.py"
+    },
+    "662902421": {
+        "score": 1.0,
+        "name": "openai_chat_agent.py",
+        "url": "https://github.com/Adamliu1/public_opinion_data_fetching_FinNLP",
+        "file_url": "https://github.com/Adamliu1/public_opinion_data_fetching_FinNLP/blob/d486f4e9bf51abb6445c5bdec4c25713aaceeff7/finnlp/large_language_models/openai/openai_chat_agent.py"
+    },
+    "666058335": {
+        "score": 1.0,
+        "name": "openai_chat_agent.py",
+        "url": "https://github.com/zhuchichi56/FINNLP",
+        "file_url": "https://github.com/zhuchichi56/FINNLP/blob/b09720232850c70475f64be3210cec68f3581f72/finnlp/large_language_models/openai/openai_chat_agent.py"
+    },
+    "686239114": {
+        "score": 1.0,
+        "name": "openai_chat_agent.py",
+        "url": "https://github.com/YuChang00/finnlp",
+        "file_url": "https://github.com/YuChang00/finnlp/blob/dd430a72fcb57ff8cf1162d4269b732505271da3/finnlp/large_language_models/openai/openai_chat_agent.py"
+    },
+    "696861912": {
+        "score": 1.0,
+        "name": "openai_chat_agent.py",
+        "url": "https://github.com/sehyunsix/NH_competition",
+        "file_url": "https://github.com/sehyunsix/NH_competition/blob/2d783892c0523d45c0cd33eec01538b1dbbfde7b/FinNLP/finnlp/large_language_models/openai/openai_chat_agent.py"
+    },
+    "635785526": {
+        "score": 1.0,
+        "name": "l4-summarizing.ipynb",
+        "url": "https://github.com/Kevin-free/chatgpt-prompt-engineering-for-developers",
+        "file_url": "https://github.com/Kevin-free/chatgpt-prompt-engineering-for-developers/blob/a07a9368720e2c2d831bade8d8656812cfc2d268/notebooks-en/l4-summarizing.ipynb"
+    },
+    "635088141": {
+        "score": 1.0,
+        "name": "l4-summarizing.ipynb",
+        "url": "https://github.com/junhaz4/ChatGPT-Prompt-Engineering",
+        "file_url": "https://github.com/junhaz4/ChatGPT-Prompt-Engineering/blob/ca875c3be91ef6d18283c48fefb419580edf72a2/l4-summarizing.ipynb"
+    },
+    "730212014": {
+        "score": 1.0,
+        "name": "model.ipynb",
+        "url": "https://github.com/DjangoPeng/LLM-quickstart",
+        "file_url": "https://github.com/DjangoPeng/LLM-quickstart/blob/6f707555246a5dbd3e8edc9d3053a63c7c518dfb/langchain/model_io/model.ipynb"
+    },
+    "746576175": {
+        "score": 1.0,
+        "name": "model.ipynb",
+        "url": "https://github.com/AKAPangHu/openai-quickstart-main-fork",
+        "file_url": "https://github.com/AKAPangHu/openai-quickstart-main-fork/blob/da1275c5e4ae4f4a27bf7651ad0e9536f2a00448/langchain/jupyter/model_io/model.ipynb"
+    },
+    "716334094": {
+        "score": 1.0,
+        "name": "functions_with_azure_search.ipynb",
+        "url": "https://github.com/AwesomeYuer/Azure-OpenAI-Function-Calling-Samples",
+        "file_url": "https://github.com/AwesomeYuer/Azure-OpenAI-Function-Calling-Samples/blob/5a3b896a46e0d71f8de206ca27940c1c7b8e6105/functions_with_azure_search.ipynb"
+    },
+    "668393943": {
+        "score": 1.0,
+        "name": "eval_gpt_review.py",
+        "url": "https://github.com/ebagdasa/multimodal_injection",
+        "file_url": "https://github.com/ebagdasa/multimodal_injection/blob/be8f118c06d7783e4f458046947d1271e7b435d6/llava/eval/eval_gpt_review.py"
+    },
+    "682915743": {
+        "score": 1.0,
+        "name": "eval_gpt_review.py",
+        "url": "https://github.com/LLaVA-VL/LLaVA-Med-preview",
+        "file_url": "https://github.com/LLaVA-VL/LLaVA-Med-preview/blob/399ccffdf39924c7f41cc6db44b90577fa9eea0b/llava/eval/eval_gpt_review.py"
+    },
+    "641380331": {
+        "score": 1.0,
+        "name": "eval_gpt_review.py",
+        "url": "https://github.com/mendelsontau/VideoLLaMA",
+        "file_url": "https://github.com/mendelsontau/VideoLLaMA/blob/0c92816b9693134f2f31c0fdac5399a8198a9ea6/llava/eval/eval_gpt_review.py"
+    },
+    "635981234": {
+        "score": 1.0,
+        "name": "eval_gpt_review.py",
+        "url": "https://github.com/gordonhu608/peft_llama",
+        "file_url": "https://github.com/gordonhu608/peft_llama/blob/d23e2bf9c509ab0dde9fd8a92e04e7c7a01a01d3/llava/eval/eval_gpt_review.py"
+    },
+    "646489141": {
+        "score": 1.0,
+        "name": "Fine_tuning_OpenAI_GPT_3_5_turbo.ipynb",
+        "url": "https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing",
+        "file_url": "https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing/blob/8cdb63d5e2b5c256bd7e44f7b9c7d9afe49319f2/example_codebase/Efficiently%20Fine%20Tune%20LLM/Fine_tuning_OpenAI_GPT_3_5_turbo.ipynb"
+    },
+    "456071599": {
+        "score": 1.0,
+        "name": "13 - Fine tuning OpenAI GPT 3_5 turbo.ipynb",
+        "url": "https://github.com/yiqiao-yin/WYNAssociates",
+        "file_url": "https://github.com/yiqiao-yin/WYNAssociates/blob/0c8df3d60251c305900584af8045f9ca00447d20/docs/ref-finetuning-llm/13%20-%20Fine%20tuning%20OpenAI%20GPT%203_5%20turbo.ipynb"
+    },
+    "745744962": {
+        "score": 1.0,
+        "name": "13.Fine_tuning_OpenAI_GPT_3_5_turbo.ipynb",
+        "url": "https://github.com/Somabss1/AIML",
+        "file_url": "https://github.com/Somabss1/AIML/blob/6e8a693003c1e3048dbf986393959c4beb813ff1/LLM-Finetuning/13.Fine_tuning_OpenAI_GPT_3_5_turbo.ipynb"
+    },
+    "744062092": {
+        "score": 1.0,
+        "name": "main.py",
+        "url": "https://github.com/t0ster/appwrite",
+        "file_url": "https://github.com/t0ster/appwrite/blob/6505af300b7d3de6b2ee26743795fada7db9d367/src/main.py"
+    },
+    "722399922": {
+        "score": 1.0,
+        "name": "evaluate_finetune_model.py",
+        "url": "https://github.com/Aneeshers/Aneesh-GenSim",
+        "file_url": "https://github.com/Aneeshers/Aneesh-GenSim/blob/82a8064a60a6ecac14e9f9936753d98c4baf2d0b/gensim/evaluate_finetune_model.py"
+    },
+    "731221489": {
+        "score": 1.0,
+        "name": "chatread.py",
+        "url": "https://github.com/yus04/external-document-search",
+        "file_url": "https://github.com/yus04/external-document-search/blob/24cee9a41ae4b5f7a94b0b521c8aa358b5ceb3bd/backend/approaches/chatread.py"
+    },
+    "733840092": {
+        "score": 1.0,
+        "name": "chatread.py",
+        "url": "https://github.com/dev-lab-io/aoai-handson-src",
+        "file_url": "https://github.com/dev-lab-io/aoai-handson-src/blob/9b047f223cf7a3ee79ed287b74d3975dd7a031f3/src/backend/approaches/chatread.py"
+    },
+    "720009772": {
+        "score": 1.0,
+        "name": "chatread.py",
+        "url": "https://github.com/ms-demos-site/aoai-handson-src",
+        "file_url": "https://github.com/ms-demos-site/aoai-handson-src/blob/62eb510e9b95e8a0b1cedea0c787900684b3a490/src/backend/approaches/chatread.py"
+    },
+    "720141661": {
+        "score": 1.0,
+        "name": "chatread.py",
+        "url": "https://github.com/ms-demo-jp/aoai-handson-src",
+        "file_url": "https://github.com/ms-demo-jp/aoai-handson-src/blob/f3e5bf527689a705564cf95934d787908af3081b/src/backend/approaches/chatread.py"
+    },
+    "608963044": {
+        "score": 1.0,
+        "name": "LangChain_OpenAI_Function_Calling.ipynb",
+        "url": "https://github.com/li199959/ceshi",
+        "file_url": "https://github.com/li199959/ceshi/blob/5fcc19f0a03ffedaad8cd62015b7a2fba8387326/LangChain_OpenAI_Function_Calling.ipynb"
+    },
+    "602548299": {
+        "score": 1.0,
+        "name": "chat_gpt_bot.py",
+        "url": "https://github.com/mostlittlebee/chatgpt-on-wecom",
+        "file_url": "https://github.com/mostlittlebee/chatgpt-on-wecom/blob/2aeb246a0e620c3194db15891f18b17ca0034583/bot/chatgpt/chat_gpt_bot.py"
+    },
+    "728001822": {
+        "score": 1.0,
+        "name": "OpenAISpec.json",
+        "url": "https://github.com/ortegaalfredo/neurochat",
+        "file_url": "https://github.com/ortegaalfredo/neurochat/blob/f3eeb9dbb6fd9c725f7fdea9920b7016174a30bf/components/openai-delphi/OpenAISpec.json"
+    },
+    "660982676": {
+        "score": 1.0,
+        "name": "chat_gpt_service.py",
+        "url": "https://github.com/masapasa/VoiceBotChatGPT-RaspberryPI",
+        "file_url": "https://github.com/masapasa/VoiceBotChatGPT-RaspberryPI/blob/19899e247133fafd1f89ecd3a914d71f2afe21ac/chat_gpt_service.py"
+    },
+    "735789145": {
+        "score": 1.0,
+        "name": "tracing_without_langchain.ipynb",
+        "url": "https://github.com/Saidiibrahim/openai-devday",
+        "file_url": "https://github.com/Saidiibrahim/openai-devday/blob/49a65a86f0deb336207dcdb45fadf261557853be/notebooks/tracing/tracing_without_langchain.ipynb"
+    },
+    "724310540": {
+        "score": 1.0,
+        "name": "py.py",
+        "url": "https://github.com/timothywarner/chatine",
+        "file_url": "https://github.com/timothywarner/chatine/blob/89e959c6f70200843a9184c094e03018874f199b/scripts/py.py"
+    },
+    "529647025": {
+        "score": 1.0,
+        "name": "09_gpt_api_access.ipynb",
+        "url": "https://github.com/shreejitverma/The-Quant-Prep",
+        "file_url": "https://github.com/shreejitverma/The-Quant-Prep/blob/c8c01d44feaa58367f13151d1a9a919abceebfcc/Resources/aifin/code/09_gpt_api_access.ipynb"
+    },
+    "693358748": {
+        "score": 1.0,
+        "name": "custom_chatbot.ipynb",
+        "url": "https://github.com/devolution007/AI-Chatbot",
+        "file_url": "https://github.com/devolution007/AI-Chatbot/blob/a5aa4ccbcb7f9adb6b4f08f83476886385352e43/custom_chatbot.ipynb"
+    },
+    "749369211": {
+        "score": 1.0,
+        "name": "column_recall.py",
+        "url": "https://github.com/starwke/C3SQL-PRA",
+        "file_url": "https://github.com/starwke/C3SQL-PRA/blob/786c9ad941280489fd98415c77c30a2a7451191c/src/column_recall.py"
+    },
+    "715194123": {
+        "score": 1.0,
+        "name": "databases-and-large-language-models.md",
+        "url": "https://github.com/lawrennd/snippets",
+        "file_url": "https://github.com/lawrennd/snippets/blob/4cc9e24d2054d8f01895f525b14fdead939e7ce2/_data-science/includes/databases-and-large-language-models.md"
+    },
+    "672414518": {
+        "score": 1.0,
+        "name": "openai_api.md",
+        "url": "https://github.com/Bhardwaj-Rishabh/CORAL",
+        "file_url": "https://github.com/Bhardwaj-Rishabh/CORAL/blob/3626db865a508751d2ddcb60393435e3a6fcfd36/docs/openai_api.md"
+    },
+    "667259295": {
+        "score": 1.0,
+        "name": "openai_api.md",
+        "url": "https://github.com/RunxinXu/vicuna-generation",
+        "file_url": "https://github.com/RunxinXu/vicuna-generation/blob/8f840c0ee9db0fc5b12c9cd6a1731351369805bc/docs/openai_api.md"
+    },
+    "656107858": {
+        "score": 1.0,
+        "name": "openai_api.md",
+        "url": "https://github.com/yiyi1333/FastChat-vicuna",
+        "file_url": "https://github.com/yiyi1333/FastChat-vicuna/blob/9a34ab2e923cecb66613d003362912ffaf458fbc/docs/openai_api.md"
+    },
+    "638501598": {
+        "score": 1.0,
+        "name": "openai_api.md",
+        "url": "https://github.com/dmitrymailk/ru_lm",
+        "file_url": "https://github.com/dmitrymailk/ru_lm/blob/cb23bad3a0d03c7708d17ec1a653224cac05e778/applications/DeepSpeed-Chat/training/step1_supervised_finetuning/FastChat/docs/openai_api.md"
+    },
+    "604156357": {
+        "score": 1.0,
+        "name": "6.Check outputs.ipynb",
+        "url": "https://github.com/jackliaoall/chatgpt_exercises_list",
+        "file_url": "https://github.com/jackliaoall/chatgpt_exercises_list/blob/674d9a1cd5cc5d7fc384533dbc17802610769dfd/DeepLearning.AI/Building%20Systems%20with%20the%20ChatGPT%20API/6.Check%20outputs.ipynb"
+    },
+    "634954949": {
+        "score": 1.0,
+        "name": "L7_Evaluation(en).ipynb",
+        "url": "https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses",
+        "file_url": "https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/blob/bbe0d16bc5992f4ed3b6ff4f03192f1a513be5fd/Building_Systems_with_the_ChatGPT_API/L7_Evaluation(en).ipynb"
+    },
+    "682315099": {
+        "score": 1.0,
+        "name": "L7_student.ipynb",
+        "url": "https://github.com/dzlab/deeplearning.ai",
+        "file_url": "https://github.com/dzlab/deeplearning.ai/blob/2128b08397fcaf819a6fdf823d74f74f4605d855/BuildingSystemswiththeChatGPTAPI/L7_student.ipynb"
+    },
+    "98452710": {
+        "score": 1.0,
+        "name": "007_L7_student.ipynb",
+        "url": "https://github.com/pablo-aledo/dotfiles",
+        "file_url": "https://github.com/pablo-aledo/dotfiles/blob/58a48bebe1cb53f86d747599d562bedc4a6e705c/pkg/jupyter/dlai/chatgpt-building-system/007_L7_student.ipynb"
+    },
+    "754732562": {
+        "score": 1.0,
+        "name": "01 chatgpt simple",
+        "url": "https://github.com/shrinathasati/Career-counseling",
+        "file_url": "https://github.com/shrinathasati/Career-counseling/blob/bc628a39ae0eefb251e52507e322659aea5fe538/chatbot/01%20chatgpt%20simple"
+    },
+    "615869301": {
+        "score": 1.0,
+        "name": "functions-openai.py",
+        "url": "https://github.com/mudler/LocalAI",
+        "file_url": "https://github.com/mudler/LocalAI/blob/3875e5e0e52d63f50f7b7b24d21b4699c4e370da/examples/functions/functions-openai.py"
+    },
+    "639700127": {
+        "score": 1.0,
+        "name": "openai_zh.md",
+        "url": "https://github.com/TigerResearch/TigerBot",
+        "file_url": "https://github.com/TigerResearch/TigerBot/blob/513ca2de8a03f05790a5f3b41c5590d88384f820/docs/openai_zh.md"
+    },
+    "289334021": {
+        "score": 1.0,
+        "name": "oai.py",
+        "url": "https://github.com/Azure/azureml-examples",
+        "file_url": "https://github.com/Azure/azureml-examples/blob/241d239ca9adec9ba3151def388548463f6e692d/sdk/python/generative-ai/rag/code_first/flows/chat-with-index/src/utils/oai.py"
+    },
+    "587050620": {
+        "score": 1.0,
+        "name": "gpt3.py",
+        "url": "https://github.com/stanfordnlp/dspy",
+        "file_url": "https://github.com/stanfordnlp/dspy/blob/09543d329566a0971a14e086a61df0dbe6a2798e/dsp/modules/gpt3.py"
+    },
+    "637594882": {
+        "score": 1.0,
+        "name": "GPTResponder.py",
+        "url": "https://github.com/SevaSk/ecoute",
+        "file_url": "https://github.com/SevaSk/ecoute/blob/7264e735081fbf18e05f00751d3c4d33b1d603e1/GPTResponder.py"
+    },
+    "148087762": {
+        "score": 1.0,
+        "name": "custom-ai-function.rst",
+        "url": "https://github.com/georgia-tech-db/evadb",
+        "file_url": "https://github.com/georgia-tech-db/evadb/blob/e5a91909ab1774d531dd803697f92d5d95e3ccc7/docs/source/reference/ai/custom-ai-function.rst"
+    },
+    "601277247": {
+        "score": 1.0,
+        "name": "Exploring ChatGPT Function Calling.ipynb",
+        "url": "https://github.com/gkamradt/langchain-tutorials",
+        "file_url": "https://github.com/gkamradt/langchain-tutorials/blob/697c4de4f6c655ea3aa16ea0de324da157398557/data_generation/Exploring%20ChatGPT%20Function%20Calling.ipynb"
+    },
+    "706800296": {
+        "score": 1.0,
+        "name": "README.md",
+        "url": "https://github.com/pchunduri6/rag-demystified",
+        "file_url": "https://github.com/pchunduri6/rag-demystified/blob/e7b38d89ed5671675a9299a697e413483b75cfd6/README.md"
+    },
+    "627577701": {
+        "score": 1.0,
+        "name": "chat_ui.py",
+        "url": "https://github.com/bg-write/chatGPT-cheatsheet",
+        "file_url": "https://github.com/bg-write/chatGPT-cheatsheet/blob/a8563d3fd0ae27f49f6f39d5050dd38400f79d4b/chat_ui.py"
+    },
+    "625084397": {
+        "score": 1.0,
+        "name": "zero_shot_schema-llama2.ipynb",
+        "url": "https://github.com/agiresearch/OpenAGI",
+        "file_url": "https://github.com/agiresearch/OpenAGI/blob/464f4fe4b275b0741bcfaedd14b1b9bca1ad3fca/benchmark_tasks/zero_shot/zero_shot_schema-llama2.ipynb"
+    },
+    "49951674": {
+        "score": 1.0,
+        "name": "openai",
+        "url": "https://github.com/sk77github/software",
+        "file_url": "https://github.com/sk77github/software/blob/a68f48dfe5c6dcedf56b79aa6631724ffb790398/openai"
+    },
+    "600294838": {
+        "score": 1.0,
+        "name": "LLMService.py",
+        "url": "https://github.com/michaelthwan/searchGPT",
+        "file_url": "https://github.com/michaelthwan/searchGPT/blob/3efcdaefa7f973e4e88def7d2e800a0f87df40c2/src/LLMService.py"
+    },
+    "624629841": {
+        "score": 1.0,
+        "name": "function-registry.mdx",
+        "url": "https://github.com/rgbkrk/chatlab",
+        "file_url": "https://github.com/rgbkrk/chatlab/blob/8d91afc0af5f699644c260d3d242b0b4a56a30eb/website/docs/api/function-registry.mdx"
+    },
+    "199449624": {
+        "score": 1.0,
+        "name": "views.py",
+        "url": "https://github.com/x4nth055/pythoncode-tutorials",
+        "file_url": "https://github.com/x4nth055/pythoncode-tutorials/blob/cf194de63299b9a7de25cdd046721da172426e3b/web-programming/webassistant/assistant/views.py"
+    },
+    "649494105": {
+        "score": 1.0,
+        "name": "model_response.py",
+        "url": "https://github.com/RUC-GSAI/YuLan-IR",
+        "file_url": "https://github.com/RUC-GSAI/YuLan-IR/blob/749d10b0797a33176e506b7db08967a3b59e7bbd/RETA-LLM/system/model_response.py"
+    },
+    "628377364": {
+        "score": 1.0,
+        "name": "llm_utils.py",
+        "url": "https://github.com/humaidan/AutoGPT",
+        "file_url": "https://github.com/humaidan/AutoGPT/blob/f85db78604f0af60c6f23ae62eed4b207fc56e86/autogpt/llm_utils.py"
+    },
+    "708655533": {
+        "score": 1.0,
+        "name": "eval_benchmark_4_temporal.py",
+        "url": "https://github.com/PKU-YuanGroup/Video-LLaVA",
+        "file_url": "https://github.com/PKU-YuanGroup/Video-LLaVA/blob/e93f4927eaa926ed8450b481fde95c994ed23d2d/videollava/eval/video/eval_benchmark_4_temporal.py"
+    },
+    "644480295": {
+        "score": 1.0,
+        "name": "gen_conversation.py",
+        "url": "https://github.com/composable-models/llm_multiagent_debate",
+        "file_url": "https://github.com/composable-models/llm_multiagent_debate/blob/28f9681e3b85d3f210ff0e10694a124631673648/biography/gen_conversation.py"
+    },
+    "623763841": {
+        "score": 1.0,
+        "name": "llm_utils.py",
+        "url": "https://github.com/alexfacehead/AutoGPTCommands",
+        "file_url": "https://github.com/alexfacehead/AutoGPTCommands/blob/4a778f4e3bac49ba83fafd302f056ad88e0a7fa6/scripts/llm_utils.py"
+    },
+    "733254215": {
+        "score": 1.0,
+        "name": "translation.py",
+        "url": "https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger",
+        "file_url": "https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger/blob/4a5115cd893d81e4ed4625539158dc094b8de7fe/translation/translation.py"
+    },
+    "632681151": {
+        "score": 1.0,
+        "name": "start_bot.py",
+        "url": "https://github.com/WillReynolds5/AutoGPT-Social",
+        "file_url": "https://github.com/WillReynolds5/AutoGPT-Social/blob/69c0dda5859cb267943dd0a0edd7de43a4f91638/start_bot.py"
+    },
+    "616099860": {
+        "score": 1.0,
+        "name": "openai.py",
+        "url": "https://github.com/stochasticai/xTuring",
+        "file_url": "https://github.com/stochasticai/xTuring/blob/afc00ba66e40793457c95f133af5500bf2210032/src/xturing/model_apis/openai.py"
+    },
+    "594987719": {
+        "score": 1.0,
+        "name": "ChatCompletion.rbbas",
+        "url": "https://github.com/charonn0/Xojo-OpenAI",
+        "file_url": "https://github.com/charonn0/Xojo-OpenAI/blob/1c98dedd97da10473ad441ebe84d5cb1f568afd2/OpenAI/ChatCompletion.rbbas"
+    },
+    "611305072": {
+        "score": 1.0,
+        "name": "chat_paper.py",
+        "url": "https://github.com/kaixindelele/ChatPaper",
+        "file_url": "https://github.com/kaixindelele/ChatPaper/blob/045205730c164ae6192b99538f1ca666de75d19a/chat_paper.py"
+    },
+    "659287330": {
+        "score": 1.0,
+        "name": "talk.py",
+        "url": "https://github.com/AllAboutAI-YT/talk-to-chatgpt",
+        "file_url": "https://github.com/AllAboutAI-YT/talk-to-chatgpt/blob/ce0aabc26118bcacbbea2a5d1f20787a9dfc646d/talk.py"
+    },
+    "682035423": {
+        "score": 1.0,
+        "name": "gpt4_grpc.py",
+        "url": "https://github.com/thunlp/Muffin",
+        "file_url": "https://github.com/thunlp/Muffin/blob/85d72b4b04035b6b1cf4168814739ae9e5e6e1dc/eval/gpt4_grpc.py"
+    },
+    "705126352": {
+        "score": 1.0,
+        "name": "api_provider.py",
+        "url": "https://github.com/HKUDS/GraphGPT",
+        "file_url": "https://github.com/HKUDS/GraphGPT/blob/85ebc22af1b4a009f69fb281faf46c4fd008d210/graphgpt/serve/api_provider.py"
+    },
+    "659530721": {
+        "score": 1.0,
+        "name": "model.py",
+        "url": "https://github.com/lfy79001/TableQAKit",
+        "file_url": "https://github.com/lfy79001/TableQAKit/blob/912a44c9a89f4e9f8f34393e990fa6866132f558/TableQAKit/icl/model.py"
+    },
+    "692496944": {
+        "score": 1.0,
+        "name": "a.txt",
+        "url": "https://github.com/KINGShinjoon/LivingLab",
+        "file_url": "https://github.com/KINGShinjoon/LivingLab/blob/6835fb6ea551dd6851eb5fa59fcb7dd3683d4c4f/2023.10.29%20%EA%B0%95%EC%9D%98/a.txt"
+    },
+    "618424400": {
+        "score": 1.0,
+        "name": "translate_dataset_chatgpt.py",
+        "url": "https://github.com/bofenghuang/vigogne",
+        "file_url": "https://github.com/bofenghuang/vigogne/blob/67ea8a2a06f1ddd5652da274c9d537e2223468bc/scripts/data_processing/translate_dataset_chatgpt.py"
+    },
+    "651602733": {
+        "score": 1.0,
+        "name": "lab_gpt4_call.py",
+        "url": "https://github.com/zwq2018/Data-Copilot",
+        "file_url": "https://github.com/zwq2018/Data-Copilot/blob/0d2ec3733a39e891b5dea6e25ae1fe564bfa6d10/lab_gpt4_call.py"
+    },
+    "634227679": {
+        "score": 1.0,
+        "name": "4-inferring.ipynb",
+        "url": "https://github.com/ralphcajipe/chatgpt-prompt-engineering",
+        "file_url": "https://github.com/ralphcajipe/chatgpt-prompt-engineering/blob/87cab981549faaf0238b881f9424d150c53c1223/4-inferring.ipynb"
+    },
+    "644201867": {
+        "score": 1.0,
+        "name": "gpt.py",
+        "url": "https://github.com/yixinL7/SumLLM",
+        "file_url": "https://github.com/yixinL7/SumLLM/blob/9870f7f0e4a3af1915dd89272388f0f6356624f1/gpt.py"
+    },
+    "642436308": {
+        "score": 1.0,
+        "name": "Enhance_Doc.py",
+        "url": "https://github.com/aws-samples/private-llm-qa-bot",
+        "file_url": "https://github.com/aws-samples/private-llm-qa-bot/blob/feb89b524e746bfefc5286336a1eddbcb8184276/doc_preprocess/Enhance_Doc.py"
+    },
+    "664017509": {
+        "score": 1.0,
+        "name": "diff.txt",
+        "url": "https://github.com/lfender6445/llm-utils",
+        "file_url": "https://github.com/lfender6445/llm-utils/blob/0475eecddd67d3decf2d43efd52866aec527064e/diff.txt"
+    },
+    "631607568": {
+        "score": 1.0,
+        "name": "inference_chatgpt.py",
+        "url": "https://github.com/AILab-CVC/GPT4Tools",
+        "file_url": "https://github.com/AILab-CVC/GPT4Tools/blob/643faa8e5036310a9ec60ae1840818b6b5d4e4af/eval/inference_chatgpt.py"
+    },
+    "1316444": {
+        "score": 1.0,
+        "name": "translate-md.py",
+        "url": "https://github.com/open-cogsci/OpenSesame",
+        "file_url": "https://github.com/open-cogsci/OpenSesame/blob/8f6de402dd4fd0dd3e7dd0cc095fa7fd70012fa1/translation_tools/translate-md.py"
+    },
+    "622196323": {
+        "score": 1.0,
+        "name": "eval_gpt_review_all.py",
+        "url": "https://github.com/FreedomIntelligence/LLMZoo",
+        "file_url": "https://github.com/FreedomIntelligence/LLMZoo/blob/cf70d9cd7a34808681ebe58e652f697420d7b055/llmzoo/eval/eval_gpt_review_all.py"
+    },
+    "633375896": {
+        "score": 1.0,
+        "name": "response.py",
+        "url": "https://github.com/Seitk/gpt-assistant",
+        "file_url": "https://github.com/Seitk/gpt-assistant/blob/933db74f581cf2225dd6b826d419c86025d3e796/gpt_assistant/chat/response.py"
+    },
+    "717297137": {
+        "score": 1.0,
+        "name": "utility.py",
+        "url": "https://github.com/BaranziniLab/KG_RAG",
+        "file_url": "https://github.com/BaranziniLab/KG_RAG/blob/9438632b3c68fdf6e29fa7dbae9571b27418759a/kg_rag/utility.py"
+    },
+    "682256506": {
+        "score": 1.0,
+        "name": "Automatic_Newsjacking_Ideation_and_Trend_Analysis_(Public).ipynb",
+        "url": "https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT",
+        "file_url": "https://github.com/ktynski/Marketing_Automations_Notebooks_With_GPT/blob/5d2cf010f420ad6af0bfefb54975916ec2a1c0a2/Automatic_Newsjacking_Ideation_and_Trend_Analysis_(Public).ipynb"
+    },
+    "631079307": {
+        "score": 1.0,
+        "name": "function_calling.py",
+        "url": "https://github.com/itamargol/openai",
+        "file_url": "https://github.com/itamargol/openai/blob/8ed269687f1cb6bbbf3ab57225c5079327bb47af/function_calling.py"
+    },
+    "589117423": {
+        "score": 1.0,
+        "name": "geist.py",
+        "url": "https://github.com/cancelself/geist",
+        "file_url": "https://github.com/cancelself/geist/blob/3902cfa5382173ffe0bca91132e0dcc1d487afed/geist.py"
+    },
+    "583302726": {
+        "score": 1.0,
+        "name": "openai_api.py",
+        "url": "https://github.com/alpha2phi/modern-neovim",
+        "file_url": "https://github.com/alpha2phi/modern-neovim/blob/6f81337311b24e4d5af4c056c03b7e265cb268dd/rplugin/python3/openai_api.py"
+    },
+    "642368010": {
+        "score": 1.0,
+        "name": "evaluate_benchmark_5_consistency.py",
+        "url": "https://github.com/mbzuai-oryx/Video-ChatGPT",
+        "file_url": "https://github.com/mbzuai-oryx/Video-ChatGPT/blob/915c18a2d4023fc2274484ebacd639b331a1efd8/quantitative_evaluation/evaluate_benchmark_5_consistency.py"
+    },
+    "652904959": {
+        "score": 1.0,
+        "name": "YT_ChatGPT_API_with_LangChain.ipynb",
+        "url": "https://github.com/samwit/langchain-tutorials",
+        "file_url": "https://github.com/samwit/langchain-tutorials/blob/382e8db4dc5e01fc400bee8d4146cb1a2e9c3150/openai/YT_ChatGPT_API_with_LangChain.ipynb"
+    },
+    "624157092": {
+        "score": 1.0,
+        "name": "openai.py",
+        "url": "https://github.com/savbell/playlist-gpt",
+        "file_url": "https://github.com/savbell/playlist-gpt/blob/68cf664cabf471a001d9c9c47aca25d9433ff87b/app/helpers/openai.py"
+    },
+    "654669027": {
+        "score": 1.0,
+        "name": "summarise.js",
+        "url": "https://github.com/nicokruger/linkyrss",
+        "file_url": "https://github.com/nicokruger/linkyrss/blob/3af63ff1c1dcd280ec3f56ed9d42763b5dfdd74e/src/crawler/summarise.js"
+    },
+    "632871628": {
+        "score": 1.0,
+        "name": "how-to-debug.mdx",
+        "url": "https://github.com/Agenta-AI/agenta",
+        "file_url": "https://github.com/Agenta-AI/agenta/blob/be925babbd536e41744e23212b7b7e1eb77f7396/docs/depractated/howto/how-to-debug.mdx"
+    },
+    "610821694": {
+        "score": 1.0,
+        "name": "01 chatgpt simple",
+        "url": "https://github.com/AIAdvantage/chatgpt-api-youtube",
+        "file_url": "https://github.com/AIAdvantage/chatgpt-api-youtube/blob/3e5313c38a18e87bdb030ecfdec0ce22af546c66/01%20chatgpt%20simple"
+    },
+    "680297792": {
+        "score": 1.0,
+        "name": "notes.txt",
+        "url": "https://github.com/ShegzBit/GENZ_HACKATHON",
+        "file_url": "https://github.com/ShegzBit/GENZ_HACKATHON/blob/3b9c3eb77efb1e4b77d86171e1144b9d6d9d0297/Plannings/notes.txt"
+    },
+    "655123367": {
+        "score": 1.0,
+        "name": "agents.py",
+        "url": "https://github.com/aurelio-labs/funkagent",
+        "file_url": "https://github.com/aurelio-labs/funkagent/blob/0d7f38a91b4157c2b405262a298b882e382df8a9/funkagent/agents.py"
+    }
+}

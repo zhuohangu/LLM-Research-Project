@@ -1,0 +1,16 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/MLNLP-World/AI-Paper-Collector/477ef2aec293e07156f386d7dccd27fa2c1af295/app.py",
+        "create_calls": [
+            {
+                "func": "openai.ChatCompletion",
+                "messages": "[{'role': 'system', 'content': 'You are a helpful assistant for search suggestion of paper in the field of artificial intelligence'}, {'role': 'user', 'content': prompt}]"
+            }
+        ],
+        "f_strings": [
+            "f'Please just return the top-10 related keywords of papers on \"{query}\" in JSON format with the key named \"keywords\". The output must start with \"```json\" and end with \"```\".'",
+            "f'If I want to search for papers on \"{query}\", what keywords are recommended to me? Please just return the top-10 related keywords of papers in JSON format with the key named \"keywords\". The output must start with \"```json\" and end with \"```\".'",
+            "f'Let us talk about search suggestion: If I want to search for papers on \"{query}\", what related and short search terms are suggested to me, please just return the top-10 related keywords of papers in JSON format. Do not perform any searches. No additional information or search results should be included in the output. The format is ```json``` with the key named \"keywords\".'"
+        ]
+    }
+]
